@@ -1,4 +1,4 @@
-# Welcome to TID-X!!
+# Welcome to TID-X!
 
 <img src="images/tidx.png" style="display:block; margin:auto; max-width:50%"/>
 
