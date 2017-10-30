@@ -1,6 +1,6 @@
 # Welcome to TID-X!
 
-<img src="images/tidx.png" style="display:block; margin:auto; max-width:50%"/>
+![Tid-X](images/tidx.png)
 
 ## Fechas
 23-24 Febrero 2018
