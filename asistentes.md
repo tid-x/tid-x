@@ -9,5 +9,5 @@ envía un [Pull Request](https://github.com/tid-x/tid-x/pulls)
 con tus datos, o [edita el
 fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 
-- Gustavo García ([@ggarber](https://github.com/ggarber)), Madrid.
-- Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Barcelona.
+- [Gustavo García](https://github.com/ggarber) (Madrid)
+- [Juan de Bravo](https://github.com/juandebravo) (Barcelona)
