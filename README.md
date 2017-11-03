@@ -10,6 +10,8 @@ Madrid (Estamos buscando un sitio donde hospedar el evento)
 
 ## Asistentes
 
+Visita la [lista de asistentes confirmados](asistentes.md).
+
 ## Charlas
 
 
