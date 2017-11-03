@@ -26,6 +26,9 @@ Las charlas se elegirán de manera democrática, si bien las normas de la democr
 están por definir. Partamos de la base de que las charlas con mayor apoyo serán las
 que formarán parte del evento.
 
+¿Os apetecería incluir una keynote en la agenda? Puedes proponer un nombre (que sea realista!)
+[aquí](https://github.com/tid-x/tid-x/issues/9).
+
 ### Quiero dar una charla, ¿cómo puedo proponerla?
 
 No hay conferencia técnica sin charlas, por tanto necesitamos propuestas de charlas para
