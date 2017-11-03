@@ -14,3 +14,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Iván Montes](https://github.com/drslump) (Barcelona)
 - [Fernando Rodríguez Sela](https://github.com/frsela) (Madrid)
 - [Javier Arias](https://github.com/javierarilos) (Barcelona)
+- [Roberto Perez](https://github.com/robjperez) (Madrid)
