@@ -12,3 +12,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Gustavo García](https://github.com/ggarber) (Madrid)
 - [Juan de Bravo](https://github.com/juandebravo) (Barcelona)
 - [Iván Montes](https://github.com/drslump) (Barcelona)
+- [Fernando Rodríguez Sela](https://github.com/frsela) (Madrid)
