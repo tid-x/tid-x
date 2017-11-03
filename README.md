@@ -13,6 +13,9 @@ por favor inclúyelo en el [issue asociado](issues/2).
 
 Visita la [lista de asistentes confirmados](asistentes.md).
 
+Si quieres apuntarte, simplemente modifica el [fichero de
+asistentes](https://github.com/tid-x/tid-x/edit/master/asistentes.md) para incluir tus datos.
+
 ## Social event viernes 23 de Febrero
 
 Trabajaremos en este punto cuando tengamos definida la ubicación y el horario del sábado.

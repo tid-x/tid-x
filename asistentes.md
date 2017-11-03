@@ -6,7 +6,8 @@ asistir a TID-x.
 
 Si tu nombre no aparece en la lista y quieres asistir a TID-x, por favor
 envía un [Pull Request](https://github.com/tid-x/tid-x/pulls)
-con tus datos.
+con tus datos, o [edita el
+fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 
 - Gustavo García ([@ggarber](https://github.com/ggarber)), Madrid.
 - Juan de Bravo ([@juandebravo](https://github.com/juandebravo)), Barcelona.
