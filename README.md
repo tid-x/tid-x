@@ -13,7 +13,11 @@ por favor inclúyelo en el [issue asociado](issues/2).
 
 Visita la [lista de asistentes confirmados](asistentes.md).
 
-## Charlas
+## Social event viernes 23 de Febrero
+
+Trabajaremos en este punto cuando tengamos definida la ubicación y el horario del sábado.
+
+## Charlas sábado 24 de Febrero
 
 Las charlas se elegirán de manera democrática, si bien las normas de la democracia
 están por definir. Partamos de la base de que las charlas con mayor apoyo serán las
@@ -37,3 +41,12 @@ y vota a favor (👍) o en contra (👎) según tus preferencias.
 
 Recordad que lo que se vota son las charlas, no las personas. Por favor que nadie
 se sienta herido si ve 👎 en su propuesta.
+
+## Recomendaciones de alojamiento
+
+Trabajaremos en este punto cuando tengamos definida la ubicación.
+
+## Merchandising
+
+Es un punto importante, pero no urgente. Conforme nos acerquemos al evento le daremos
+una vuelta.
