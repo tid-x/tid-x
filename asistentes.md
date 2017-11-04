@@ -19,3 +19,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Guido García](https://github.com/palmerabollo) (Boecillo)
 - [David Perales](https://github.com/dperales) (Madrid)
 - [Jorge Sanz Pérez](https://github.com/jorge-sanz) (Boecillo)
+- [Alvaro Martínez Reol](https://github.com/amarreo) (Boecillo)
