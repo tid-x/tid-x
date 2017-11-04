@@ -16,3 +16,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Javier Arias](https://github.com/javierarilos) (Barcelona)
 - [Roberto Perez](https://github.com/robjperez) (Madrid)
 - [Javier Provecho Fernández](https://github.com/javierprovecho) (Boecillo)
+- [Gonzalo Fernández](https://github.com/lentregu) (Boecillo)
