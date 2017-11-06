@@ -28,3 +28,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Boecillo)
 - [Johan Paz](https://github.com/Johan-Paz) (Madrid)
 - [Pablo Jiménez](https://github.com/pablix) (Madrid)
+- [Alberto Baselga](https://github.com/albertobaselga) (Madrid)
