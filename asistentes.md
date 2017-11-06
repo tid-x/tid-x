@@ -29,3 +29,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Johan Paz](https://github.com/Johan-Paz) (Madrid)
 - [Pablo Jiménez](https://github.com/pablix) (Madrid)
 - [Alberto Baselga](https://github.com/albertobaselga) (Madrid)
+- [Borja Marcos](https://github.com/borjamarcos) (Madrid)
