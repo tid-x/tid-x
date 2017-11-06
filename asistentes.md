@@ -21,3 +21,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Jorge Sanz Pérez](https://github.com/jorge-sanz) (Boecillo)
 - [Alvaro Martínez Reol](https://github.com/amarreo) (Boecillo)
 - [Gonzalo Fernández](https://github.com/lentregu) (Boecillo)
+- [Juanjo Martín](https://github.com/jjmr) (Madrid)
