@@ -25,3 +25,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Iván López](https://github.com/greuze) (Boecillo)
 - [Juanjo Martín](https://github.com/jjmr) (Madrid)
 - [Javier Sigler](https://github.com/javiersigler) (Madrid)
+- [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Boecillo)
