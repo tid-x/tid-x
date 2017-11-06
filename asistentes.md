@@ -22,3 +22,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Alvaro Martínez Reol](https://github.com/amarreo) (Boecillo)
 - [Gonzalo Fernández](https://github.com/lentregu) (Boecillo)
 - [Iván López](https://github.com/greuze) (Boecillo)
+- [Juanjo Martín](https://github.com/jjmr) (Madrid)
