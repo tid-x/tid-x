@@ -26,3 +26,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Juanjo Martín](https://github.com/jjmr) (Madrid)
 - [Javier Sigler](https://github.com/javiersigler) (Madrid)
 - [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Boecillo)
+- [Johan Paz](https://github.com/Johan-Paz) (Madrid)
