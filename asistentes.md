@@ -32,5 +32,6 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Borja Marcos](https://github.com/borjamarcos) (Madrid)
 - [David Vallejo](https://github.com/dvallejo) (Madrid)
 - [Álvaro Sánchez](https://github.com/alvarosperez) (Madrid)
+- [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
 - [Alberto Villena](https://github.com/villenavg) (Madrid)
 - [Jorge Serna](https://github.com/jorgeserna) (Madrid)
