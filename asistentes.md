@@ -31,3 +31,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Alberto Baselga](https://github.com/albertobaselga) (Madrid)
 - [Borja Marcos](https://github.com/borjamarcos) (Madrid)
 - [Álvaro Sánchez](https://github.com/alvarosperez) (Madrid)
+- [Alberto Villena](https://github.com/villenavg) (Madrid)
