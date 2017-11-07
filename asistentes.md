@@ -33,6 +33,7 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Victor Espinosa](https://github.com/Vespinosa) (Madrid)
 - [David Vallejo](https://github.com/dvallejo) (Madrid)
 - [Álvaro Sánchez](https://github.com/alvarosperez) (Madrid)
+- [Daniel Pous](https://github.com/softsapiens) (Barcelona)
 - [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
 - [Alberto Villena](https://github.com/villenavg) (Madrid)
 - [Jorge Serna](https://github.com/jorgeserna) (Madrid)
