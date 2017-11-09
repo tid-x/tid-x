@@ -31,8 +31,30 @@
   color: #b5e853;
 }
 
+#menu li.active a {
+  color: #eaeaea;
+}
+
 .menu-icon {
   display: none;
+}
+
+#main_content {
+  counter-reset: my-counter;
+}
+
+#main_content li {
+  list-style: none
+}
+
+#main_content li:before {
+  content: counter(my-counter);
+  counter-increment: my-counter;
+  color: #b5e853;
+  display: inline-block;
+  width: 1.8em;
+  padding-right: 10px;
+  text-align: right;
 }
 
 @media (max-width: 768px)

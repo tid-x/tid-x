@@ -1,7 +1,7 @@
 
 items:
 - title: Bienvenido
-  url: index.html
+  url: /
 
 - title: Fechas
   url: fechas.html
