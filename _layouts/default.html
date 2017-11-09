@@ -28,11 +28,17 @@
 
     <div class="container container-tidx">
       <section id="nav">
-        <ul>
-           {% for item in site.data.menu.items %}
-              <li class="item-menu"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
-           {% endfor %}
-        </ul>
+        <div id="menu">
+          <span class="menu-icon">
+            &#9776;
+          </span>
+
+          <ul>
+             {% for item in site.data.menu.items %}
+                <li class="item-menu"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+             {% endfor %}
+          </ul>
+        </div>
       </section>
       <section id="main_content" class="tidx">
         {{ content }}
