@@ -38,3 +38,5 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Alberto Villena](https://github.com/villenavg) (Madrid)
 - [Jorge Serna](https://github.com/jorgeserna) (Madrid)
 - [Ruben Gonzalez](https://github.com/tungamajunga) (Madrid)
+- [Roberto Afonso](https://pdihub.hi.inet/ran) (Boecillo)
+
