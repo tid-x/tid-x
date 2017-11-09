@@ -1,6 +1,5 @@
 ---
 layout: default
-menu_item: asistentes.html
 ---
 
 ## Lista de asistentes
