@@ -37,3 +37,4 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
 - [Alberto Villena](https://github.com/villenavg) (Madrid)
 - [Jorge Serna](https://github.com/jorgeserna) (Madrid)
+- [Ruben Gonzalez](https://github.com/tungamajunga) (Madrid)
