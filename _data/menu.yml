@@ -1,0 +1,22 @@
+
+items:
+- title: Bienvenido
+  url: index.html
+
+- title: Fechas
+  url: fechas.html
+
+- title: Ubicación
+  url: localizacion.html
+
+- title: Agenda
+  url: agenda.html
+
+- title: Asistentes
+  url: asistentes.html
+
+- title: Alojamiento
+  url: alojamiento.html
+
+- title: Merchandising
+  url: merchandising.html

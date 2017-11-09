@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.container-tidx{
+  max-width: 800px !important;
+}
+
+#nav {
+  width: 25%;
+  float: left;
+  -webkit-font-smoothing: antialiased;
+}
+
+#main_content.tidx{
+  width: 75%;
+  float: right;
+  max-width: 800px;
+}
+
+.item-menu {
+    line-height: 2.2em;
+}
