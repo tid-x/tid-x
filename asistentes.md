@@ -50,3 +50,4 @@ localización).
 - [Gerardo Jiménez](https://github.com/fulldump) (Madrid)
 - [Belén Albeza](https://github.com/belen-albeza) (Barcelona)
 - [David Lopez](https://github.com/espencer) (Madrid)
+- [Julio Ramírez](https://github.com/julioramirez) (Madrid)
