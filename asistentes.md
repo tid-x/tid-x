@@ -49,3 +49,4 @@ localización).
 - [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
 - [Gerardo Jiménez](https://github.com/fulldump) (Madrid)
 - [Belén Albeza](https://github.com/belen-albeza) (Barcelona)
+- [Julio Ramírez](https://github.com/julioramirez) (Madrid)
