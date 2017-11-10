@@ -45,5 +45,6 @@ localización).
 - [Ruben Gonzalez](https://github.com/tungamajunga) (Madrid)
 - [Roberto Afonso](https://pdihub.hi.inet/ran) (Boecillo)
 - [Jacob Cañadas](https://github.com/jacobcr) (Barcelona)
+- [Juan Agüí](https://github.com/jagui) (Madrid)
+- [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
 - [Gerardo Jiménez](https://github.com/fulldump) (Madrid)
-
