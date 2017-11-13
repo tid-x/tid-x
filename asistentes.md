@@ -53,3 +53,4 @@ localización).
 - [Julio Ramírez](https://github.com/julioramirez) (Madrid)
 - [Arturo Gutiérrez](https://github.com/arturogutierrez) (Guadalajara)
 - [Jose Mª Villascusa Puche](https://github.com/jason-vp) (Barcelona)
+- [Shay Cohen](https://github.com/shaykec) (Tel-Aviv)
