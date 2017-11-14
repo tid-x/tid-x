@@ -54,3 +54,4 @@ localización).
 - [Arturo Gutiérrez](https://github.com/arturogutierrez) (Guadalajara)
 - [Jose Mª Villascusa Puche](https://github.com/jason-vp) (Barcelona)
 - [Shay Cohen](https://github.com/shaykec) (Tel-Aviv)
+- [Hugo Ferrando](https://github.com/hugo19941994) (Madrid)
