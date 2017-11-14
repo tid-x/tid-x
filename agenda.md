@@ -21,7 +21,7 @@ Aquí puedes encontrar la lista de [charlas propuestas](https://github.com/tid-x
 
 No hay conferencia técnica sin charlas, por tanto necesitamos propuestas de charlas para
 tener un sábado pleno de conocimientos! Puedes enviar tu propuesta de charla [abriendo
-un issue en el repositorio](https://github.com/tid-x/tid-x/issues/new).
+un issue en el repositorio](https://github.com/tid-x/tid-x/issues/new?labels=talk).
 
 ### Quiero mostrar mi apoyo/rechazo a una charla propuesta, ¿cómo puedo hacerlo?
 
