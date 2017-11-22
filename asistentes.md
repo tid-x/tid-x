@@ -59,3 +59,4 @@ localización).
 - [Jesús Latorre](https://github.com/jeslat) (Madrid)
 - [Massimo Barone](https://github.com/mbarone) (Madrid)
 - [Ignacio Blasco López](https://github.com/elnopintan) (Madrid)
+- [Rafael Rebolleda](https://github.com/rafaelrebolleda) (Madrid)
