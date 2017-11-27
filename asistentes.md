@@ -59,4 +59,5 @@ localización).
 - [Massimo Barone](https://github.com/mbarone) (Madrid)
 - [Ignacio Blasco López](https://github.com/elnopintan) (Madrid)
 - [Rafael Rebolleda](https://github.com/rafaelrebolleda) (Madrid)
+- [Sebastián Ortega](https://github.com/sortega) (Barcelona)
 - [Carlos del Prado](https://github.com/pradomota) (Madrid)
