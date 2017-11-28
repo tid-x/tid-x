@@ -3,5 +3,5 @@ layout: default
 ---
 
 ## Fechas
-23-24 Febrero 2018
 
+El evento tendrá lugar los días 23 (viernes) y 24 (sábado) de Febrero de 2018.
