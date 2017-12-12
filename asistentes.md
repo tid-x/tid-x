@@ -63,3 +63,4 @@ localización).
 - [Carlos del Prado](https://github.com/pradomota) (Madrid)
 - [David Lozano](https://github.com/dlozlla) (Boecillo)
 - [Alfredo Picón](https://github.com/japiconc) (Madrid)
+- [Javier Martinez](https://twitter.com/jamaa) (Boecillo)
