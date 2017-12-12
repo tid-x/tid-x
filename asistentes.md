@@ -64,3 +64,4 @@ localización).
 - [David Lozano](https://github.com/dlozlla) (Boecillo)
 - [Alfredo Picón](https://github.com/japiconc) (Madrid)
 - [Javier Martinez](https://twitter.com/jamaa) (Boecillo)
+- [Javier Espinosa](https://github.com/jaesga) (Madrid)
