@@ -65,3 +65,4 @@ localización).
 - [Alfredo Picón](https://github.com/japiconc) (Madrid)
 - [Javier Martinez](https://twitter.com/jamaa) (Boecillo)
 - [Javier Espinosa](https://github.com/jaesga) (Madrid)
+- [Sergi Sorribas](https://github.com/lerovitch) (Berlin)
