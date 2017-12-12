@@ -62,3 +62,4 @@ localización).
 - [Sebastián Ortega](https://github.com/sortega) (Barcelona)
 - [Carlos del Prado](https://github.com/pradomota) (Madrid)
 - [David Lozano](https://github.com/dlozlla) (Boecillo)
+- [Javier Martinez] (Boecillo)
