@@ -66,3 +66,4 @@ localización).
 - [Javier Martinez](https://twitter.com/jamaa) (Boecillo)
 - [Javier Espinosa](https://github.com/jaesga) (Madrid)
 - [Sergi Sorribas](https://github.com/lerovitch) (Berlin)
+- [Rafael Oleza](https://github.com/rafeca) (Londres)
