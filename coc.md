@@ -36,14 +36,13 @@ del evento.
 
 Si estás siendo objeto de acoso, notas que alguien está siendo acosado,
 o tienes cualquier otra preocupación, por favor ponte en contacto con un miembro
-del personal de la conferencia. El personal de la conferencia vestirá camisetas
-con la inscripción "TID-X". Además puedes hablar con el personal del lugar
+del personal de la conferencia. Además puedes hablar con el personal del lugar
 y pedir que se te ponga en contacto con el responsable de la conferencia - Juan de Bravo.
 
 Si se trata de una cuestión especialmente urgente, dirígete a cualquiera de estas personas:
 
-- Juan de Bravo (+34 6XXXXXXXX)
-- Gustavo García (+34 6XXXXXXXX)
+- Juan de Bravo (+34 647.60.67.49)
+- Gustavo García (+34 684.33.23.21)
 
 El personal de la conferencia ayudará gustosamente a los participantes a que se
 pongan en contacto con el personal de seguridad del lugar o la policía local,
