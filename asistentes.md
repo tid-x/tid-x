@@ -69,3 +69,5 @@ localización).
 - [Rafael Oleza](https://github.com/rafeca) (Londres)
 - [Salvador de la Puente](https://github.com/delapuente) (Madrid)
 - [Fernando Jiménez](https://github.com/ferjm) (Madrid)
+- [Daniel Morán](https://github.com/dmoranj) (Barcelona)
+
