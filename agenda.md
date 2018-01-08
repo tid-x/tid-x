@@ -11,10 +11,6 @@ Trabajaremos en este punto cuando tengamos definida la ubicación y el horario d
 
 ## Charlas sábado 24 de Febrero
 
-Las charlas se elegirán de manera democrática, si bien las normas de la democracia
-están por definir. Partamos de la base de que las charlas con mayor apoyo serán las
-que formarán parte del evento.
-
 Aquí puedes encontrar la lista de [charlas propuestas](https://github.com/tid-x/tid-x/issues?q=is%3Aopen+is%3Aissue+label%3Atalk).
 
 ¿Os apetecería incluir una **keynote** en la agenda? Puedes proponer un nombre (que sea realista!)
@@ -39,3 +35,5 @@ y vota a favor (👍) o en contra (👎) según tus preferencias.
 Recordad que lo que se vota son las charlas, no las personas. Por favor que nadie
 se sienta herido si ve 👎 en su propuesta.
 
+### Plazo para presentar propuestas y realizar votaciones
+El plazo finaliza el 17 de enero de 2018.
