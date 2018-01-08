@@ -68,3 +68,4 @@ localización).
 - [Sergi Sorribas](https://github.com/lerovitch) (Berlin)
 - [Rafael Oleza](https://github.com/rafeca) (Londres)
 - [Salvador de la Puente](https://github.com/delapuente) (Madrid)
+- [Fernando Jiménez](https://github.com/ferjm) (Madrid)
