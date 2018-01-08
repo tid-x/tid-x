@@ -2,13 +2,6 @@
 layout: default
 ---
 
-El evento comienza el viernes 23 de Febrero de 2018 con un encuentro informal, y el
-plato fuerte llega el sábado 24 de febrero con las charlas.
-
-## Social event viernes 23 de Febrero
-
-Trabajaremos en este punto cuando tengamos definida la ubicación y el horario del sábado.
-
 ## Charlas sábado 24 de Febrero
 
 Aquí puedes encontrar la lista de [charlas propuestas](https://github.com/tid-x/tid-x/issues?q=is%3Aopen+is%3Aissue+label%3Atalk).

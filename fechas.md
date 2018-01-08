@@ -4,4 +4,6 @@ layout: default
 
 ## Fechas
 
-El evento tendrá lugar los días 23 (viernes) y 24 (sábado) de Febrero de 2018.
+El evento comenzará el día 23 de Febrero (viernes) con un [encuentro
+informal](social-event.md) y el plato fuerte llega el 24 de Febrero (sábado)
+con [un día repleto de charlas](agenda.md).

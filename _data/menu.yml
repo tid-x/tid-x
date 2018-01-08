@@ -6,11 +6,14 @@ items:
 - title: Fechas
   url: fechas.html
 
-- title: Ubicación
-  url: localizacion.html
-
 - title: Agenda
   url: agenda.html
+
+- title: Social event
+  url: social-event.html
+
+- title: Ubicación
+  url: localizacion.html
 
 - title: Asistentes
   url: asistentes.html
