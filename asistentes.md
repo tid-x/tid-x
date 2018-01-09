@@ -70,4 +70,5 @@ localización).
 - [Salvador de la Puente](https://github.com/delapuente) (Madrid)
 - [Fernando Jiménez](https://github.com/ferjm) (Madrid)
 - [Daniel Morán](https://github.com/dmoranj) (Barcelona)
+- [Javier López Pardo](https://github.com/jalopez) (Madrid)
 
