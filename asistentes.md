@@ -72,4 +72,5 @@ localización).
 - [Daniel Morán](https://github.com/dmoranj) (Barcelona)
 - [Javier López Pardo](https://github.com/jalopez) (Madrid)
 - [Tomasz Jacek Wszelaki](https://github.com/tomekwszelaki) (Wrocław)
+- [Santiago Dobón](https://github.com/santifinland) (Madrid)
 
