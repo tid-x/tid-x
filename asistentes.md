@@ -73,4 +73,5 @@ localización).
 - [Javier López Pardo](https://github.com/jalopez) (Madrid)
 - [Tomasz Jacek Wszelaki](https://github.com/tomekwszelaki) (Wrocław)
 - [Santiago Dobón](https://github.com/santifinland) (Madrid)
+- [Andrés López](https://github.com/astaldo10) (Boecillo)
 
