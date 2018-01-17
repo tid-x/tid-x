@@ -74,4 +74,5 @@ localización).
 - [Tomasz Jacek Wszelaki](https://github.com/tomekwszelaki) (Wrocław)
 - [Santiago Dobón](https://github.com/santifinland) (Madrid)
 - [Andrés López](https://github.com/astaldo10) (Boecillo)
+- [Xavier Val](https://github.com/xavierval) (Madrid)
 
