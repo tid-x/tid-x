@@ -1,4 +1,4 @@
 
 Hola!
 
-Web desplegada aquí: https://tid-x.github.io/tid-x/
+Web desplegada aquí: http://www.tid-x.com
