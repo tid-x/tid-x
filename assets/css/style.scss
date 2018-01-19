@@ -19,6 +19,22 @@
   max-width: 800px;
 }
 
+#agenda + table {
+  border-collapse: collapse;
+}
+#agenda + table td:nth-child(1) {
+  width: 15%;
+  vertical-align:middle;
+}
+
+#agenda + table td {
+  border-bottom: 1px dotted #b5e853;
+}
+
+#agenda + table td {
+  padding-top: 5pt;
+}
+
 .item-menu {
     line-height: 2.2em;
 }
