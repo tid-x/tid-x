@@ -75,3 +75,4 @@ localización).
 - [Andrés López](https://github.com/astaldo10) (Boecillo)
 - [Xavier Val](https://github.com/xavierval) (Madrid)
 - [Marcos Reyes](https://github.com/mrutid) (Madrid)
+- [Guillermo López](https://github.com/willyaranda) (Madrid)
