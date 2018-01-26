@@ -19,6 +19,21 @@
   max-width: 800px;
 }
 
+.container-tidx .speaker img {
+  border-radius: 50%;
+  margin: auto;
+  display: block;
+  width: 50%;
+  height: 300px;
+  padding-bottom: 20px;
+}
+
+.container-tidx .speaker a {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
 #agenda + table {
   border-collapse: collapse;
 }
