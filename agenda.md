@@ -19,9 +19,9 @@ layout: default
 |13:30 - 14:30  | *Lunch*   |
 |14:30 - 15:00  | What the hell happened with Web development?   |  Salvador de la Puente|
 |15:00 - 15:30  | Chatting with your app // Moving UI to IM |   Fernando Rodriguez Sela|
-|15:30 - 16:00  | Getting started with Tensorflow | Gustavo García|
+|15:30 - 16:00  | Getting started with Tensorflow | [Gustavo García](gustavo_garcia.md)|
 |16:00 - 16:30  | *Coffee break*    |
 |16:30 - 17:00  | Why do lazy developers write beautiful code? |    Javier Arias|
 |17:00 - 17:30  | How I ended up in the hall of shame... repeatedly! | Tomek Wszelaki|
-|17:30 - 18:00  | The mindful developer - Becoming Jedi developer|  [Shay Cohen](shay_cohen.html)|
+|17:30 - 18:00  | The mindful developer - Becoming Jedi developer|  [Shay Cohen](shay_cohen.md)|
 
