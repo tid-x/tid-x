@@ -77,3 +77,4 @@ localización).
 - [Marcos Reyes](https://github.com/mrutid) (Madrid)
 - [Guillermo López](https://github.com/willyaranda) (Madrid)
 - [Javier Zorzano](https://github.com/zorzano) (Madrid)
+- [Rafael Bartolomé](https://github.com/rafaelbartolome) (Madrid)
