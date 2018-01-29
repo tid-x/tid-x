@@ -78,3 +78,4 @@ localización).
 - [Guillermo López](https://github.com/willyaranda) (Madrid)
 - [Javier Zorzano](https://github.com/zorzano) (Madrid)
 - [Rafael Bartolomé](https://github.com/rafaelbartolome) (Madrid)
+- [Javier García Puga](https://github.com/javiergp) (Madrid)
