@@ -13,7 +13,7 @@ layout: default
 |10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  Sergi Sorribas|
 |11:00 - 11:30  | Advanced orchestration techniques in Kubernetes | Javier Provecho|
 |11:30 - 12:00  | *Coffee break*    |
-|12:00 - 12:30  | Real World Raspberry Pi: own your phone!   |  Juan Aguí|
+|12:00 - 12:30  | Real World Raspberry Pi: own your phone!   |  [Juan Agüí](juan_agui.md)|
 |12:30 - 13:00  | Bringing native perfomance to the web with WebAssembly |  Roberto Pérez|
 |13:00 - 13:30  | Rust 101  |   Fernando Jiménez|
 |13:30 - 14:30  | *Lunch*   |
@@ -24,4 +24,3 @@ layout: default
 |16:30 - 17:00  | Why do lazy developers write beautiful code? |    Javier Arias|
 |17:00 - 17:30  | How I ended up in the hall of shame... repeatedly! | Tomek Wszelaki|
 |17:30 - 18:00  | The mindful developer - Becoming Jedi developer|  [Shay Cohen](shay_cohen.md)|
-
