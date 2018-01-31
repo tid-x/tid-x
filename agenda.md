@@ -15,7 +15,7 @@ layout: default
 |11:30 - 12:00  | *Coffee break*    |
 |12:00 - 12:30  | Real World Raspberry Pi: own your phone!   |  [Juan Agüí](juan_agui.md)|
 |12:30 - 13:00  | Bringing native perfomance to the web with WebAssembly |  Roberto Pérez|
-|13:00 - 13:30  | Rust 101  |   Fernando Jiménez|
+|13:00 - 13:30  | Rust 101  |   [Fernando Jiménez](fernando_jimenez.md)|
 |13:30 - 14:30  | *Lunch*   |
 |14:30 - 15:00  | What the hell happened with Web development?   |  Salvador de la Puente|
 |15:00 - 15:30  | Chatting with your app // Moving UI to IM |   Fernando Rodriguez Sela|
