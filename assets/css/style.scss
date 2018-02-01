@@ -19,6 +19,12 @@
   max-width: 800px;
 }
 
+#main_content.tidx img {
+  display: block;
+  margin: auto;
+}
+
+
 .container-tidx .speaker img {
   border-radius: 50%;
   margin: auto;
@@ -27,7 +33,13 @@
   padding-bottom: 20px;
 }
 
-.container-tidx .speaker a {
+.container-tidx .speaker p:first-of-type a {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+.container-tidx .speaker p:last-of-type a {
   margin: auto;
   display: block;
   text-align: center;

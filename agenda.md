@@ -7,7 +7,7 @@ layout: default
 <div id="agenda">
 </div>
 
-|09:00 - 09:15  | Welcome | [Juan de Bravo](juan_de_bravo.md)|
+|09:00 - 09:15  | Welcome | [Juan de Bravo](juan_de_bravo.html)|
 |09:15 - 10:00  | Keynote | Carlos Domingo|
 |10:00 - 10:30  | Becoming "as a Service" | Rubén González|
 |10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  Sergi Sorribas|
