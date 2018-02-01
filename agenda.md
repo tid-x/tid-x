@@ -8,7 +8,7 @@ layout: default
 </div>
 
 |09:00 - 09:15  | Welcome | [Juan de Bravo](juan_de_bravo.html)|
-|09:15 - 10:00  | Keynote | Carlos Domingo|
+|09:15 - 10:00  | Keynote | [Carlos Domingo](carlos_domingo.html)|
 |10:00 - 10:30  | Becoming "as a Service" | Rubén González|
 |10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  Sergi Sorribas|
 |11:00 - 11:30  | Advanced orchestration techniques in Kubernetes | Javier Provecho|
