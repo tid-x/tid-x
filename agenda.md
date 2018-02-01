@@ -17,7 +17,7 @@ layout: default
 |12:30 - 13:00  | Bringing native perfomance to the web with WebAssembly |  Roberto Pérez|
 |13:00 - 13:30  | Rust 101  |   [Fernando Jiménez](fernando_jimenez.md)|
 |13:30 - 14:30  | *Lunch*   |
-|14:30 - 15:00  | What the hell happened with Web development?   |  Salvador de la Puente|
+|14:30 - 15:00  | What the hell happened with Web development?   |  [Salvador de la Puente](salva_de_la_puente.md)|
 |15:00 - 15:30  | Chatting with your app // Moving UI to IM | [Fernando Rodriguez Sela](fernando_rodriguez_sela.md)|
 |15:30 - 16:00  | Getting started with Tensorflow | [Gustavo García](gustavo_garcia.md)|
 |16:00 - 16:30  | *Coffee break*    |
