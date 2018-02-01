@@ -18,7 +18,7 @@ layout: default
 |13:00 - 13:30  | Rust 101  |   [Fernando Jiménez](fernando_jimenez.md)|
 |13:30 - 14:30  | *Lunch*   |
 |14:30 - 15:00  | What the hell happened with Web development?   |  Salvador de la Puente|
-|15:00 - 15:30  | Chatting with your app // Moving UI to IM |   Fernando Rodriguez Sela|
+|15:00 - 15:30  | Chatting with your app // Moving UI to IM | [Fernando Rodriguez Sela](fernando_rodriguez_sela.md)|
 |15:30 - 16:00  | Getting started with Tensorflow | [Gustavo García](gustavo_garcia.md)|
 |16:00 - 16:30  | *Coffee break*    |
 |16:30 - 17:00  | Why do lazy developers write beautiful code? |    Javier Arias|
