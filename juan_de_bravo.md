@@ -15,5 +15,5 @@ biography: |
     Past companies - Tecsidel, inQA.labs, InfoJobs, Jajah, Telefonica.
 
     Passionate about technology, cultures, bicycles and books recommended by
-    [Shay Cohen](shay_cohen.md).
+    [Shay Cohen](shay_cohen.html).
 ---
