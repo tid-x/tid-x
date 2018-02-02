@@ -14,7 +14,7 @@ layout: default
 |11:00 - 11:30  | Advanced orchestration techniques in Kubernetes | [Javier Provecho Fernández](javier_provecho_fernandez.md)|
 |11:30 - 12:00  | *Coffee break*    |
 |12:00 - 12:30  | Real World Raspberry Pi: own your phone!   |  [Juan Agüí](juan_agui.md)|
-|12:30 - 13:00  | Bringing native perfomance to the web with WebAssembly |  Roberto Pérez|
+|12:30 - 13:00  | Bringing native perfomance to the web with WebAssembly |  [Roberto Pérez](rpc.md)|
 |13:00 - 13:30  | Rust 101  |   [Fernando Jiménez](fernando_jimenez.md)|
 |13:30 - 14:30  | *Lunch*   |
 |14:30 - 15:00  | What the hell happened with Web development?   |  [Salvador de la Puente](salva_de_la_puente.md)|
