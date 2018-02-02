@@ -5,4 +5,7 @@
 {{page.biography}}
 
 ![{{page.speaker}}]({{page.picture}})
+
+{% if page.twitter %}
 [@{{page.twitter}}](https://twitter.com/{{page.twitter}})
+{% endif %}
