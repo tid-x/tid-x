@@ -10,7 +10,7 @@ layout: default
 |09:00 - 09:15  | Welcome | [Juan de Bravo](juan_de_bravo.html)|
 |09:15 - 10:00  | Keynote | [Carlos Domingo](carlos_domingo.html)|
 |10:00 - 10:30  | Becoming "as a Service" | Rubén González|
-|10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  Sergi Sorribas|
+|10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  [Sergi Sorribas](sergi_sorribas.md)|
 |11:00 - 11:30  | Advanced orchestration techniques in Kubernetes | Javier Provecho|
 |11:30 - 12:00  | *Coffee break*    |
 |12:00 - 12:30  | Real World Raspberry Pi: own your phone!   |  [Juan Agüí](juan_agui.md)|
