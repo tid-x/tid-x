@@ -4,7 +4,7 @@ speaker: Javier Provecho Fernández
 linkedin: https://es.linkedin.com/in/javierprovecho
 job_title: R&D at Telefonica
 twitter: javierprovecho
-picture: images/speakers/javier_provecho_fernandez.jpg
+picture: images/speakers/javier_provecho_fernandez.jpeg
 biography: |
     Javier Provecho works at Telefónica R&D, at the core of the 4th platform.
 
