@@ -1,0 +1,10 @@
+theme: jekyll-theme-hacker
+title: TID-X 2018
+description: TID-X es un evento de charlas de tecnología organizado por ex-empleados de Telefónica I+D
+google_analytics: UA-109427028-1
+
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+
+github:
+  repository_url: https://www.github.com/tid-x/tid-x

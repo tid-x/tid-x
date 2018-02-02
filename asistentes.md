@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-### Lista de asistentes
+## Lista de asistentes
 
 En esta lista se incluyen las personas que han confirmado su intención de
 asistir a TID-x.
@@ -7,7 +10,9 @@ asistir a TID-x.
 Si tu nombre no aparece en la lista y quieres asistir a TID-x, por favor
 envía un [Pull Request](https://github.com/tid-x/tid-x/pulls)
 con tus datos, o [edita el
-fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
+fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente. Utiliza
+el mismo formato que el resto de asistentes (nombre, enlace a cuenta personal en github,
+localización).
 
 - [Gustavo García](https://github.com/ggarber) (Madrid)
 - [Juan de Bravo](https://github.com/juandebravo) (Barcelona)
@@ -38,3 +43,42 @@ fichero](https://github.com/tid-x/tid-x/edit/master/asistentes.md) directamente.
 - [Alberto Villena](https://github.com/villenavg) (Madrid)
 - [Jorge Serna](https://github.com/jorgeserna) (Madrid)
 - [Ruben Gonzalez](https://github.com/tungamajunga) (Madrid)
+- [Roberto Afonso](https://pdihub.hi.inet/ran) (Boecillo)
+- [Jacob Cañadas](https://github.com/jacobcr) (Barcelona)
+- [Juan Agüí](https://github.com/jagui) (Madrid)
+- [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
+- [Gerardo Jiménez](https://github.com/fulldump) (Madrid)
+- [David Lopez](https://github.com/espencer) (Madrid)
+- [Julio Ramírez](https://github.com/julioramirez) (Madrid)
+- [Arturo Gutiérrez](https://github.com/arturogutierrez) (Guadalajara)
+- [Jose Mª Villascusa Puche](https://github.com/jason-vp) (Barcelona)
+- [Shay Cohen](https://github.com/shaykec) (Tel-Aviv)
+- [Hugo Ferrando](https://github.com/hugo19941994) (Madrid)
+- [Jesús Latorre](https://github.com/jeslat) (Madrid)
+- [Massimo Barone](https://github.com/mbarone) (Madrid)
+- [Ignacio Blasco López](https://github.com/elnopintan) (Madrid)
+- [Rafael Rebolleda](https://github.com/rafaelrebolleda) (Madrid)
+- [Sebastián Ortega](https://github.com/sortega) (Barcelona)
+- [Carlos del Prado](https://github.com/pradomota) (Madrid)
+- [David Lozano](https://github.com/dlozlla) (Boecillo)
+- [Alfredo Picón](https://github.com/japiconc) (Madrid)
+- [Javier Martinez](https://twitter.com/jamaa) (Boecillo)
+- [Javier Espinosa](https://github.com/jaesga) (Madrid)
+- [Sergi Sorribas](https://github.com/lerovitch) (Berlin)
+- [Rafael Oleza](https://github.com/rafeca) (Londres)
+- [Salvador de la Puente](https://github.com/delapuente) (Madrid)
+- [Fernando Jiménez](https://github.com/ferjm) (Madrid)
+- [Daniel Morán](https://github.com/dmoranj) (Barcelona)
+- [Javier López Pardo](https://github.com/jalopez) (Madrid)
+- [Tomasz Jacek Wszelaki](https://github.com/tomekwszelaki) (Wrocław)
+- [Santiago Dobón](https://github.com/santifinland) (Madrid)
+- [Andrés López](https://github.com/astaldo10) (Boecillo)
+- [Xavier Val](https://github.com/xavierval) (Madrid)
+- [Marcos Reyes](https://github.com/mrutid) (Madrid)
+- [Guillermo López](https://github.com/willyaranda) (Madrid)
+- [Javier Zorzano](https://github.com/zorzano) (Madrid)
+- [Rafael Bartolomé](https://github.com/rafaelbartolome) (Madrid)
+- [Javier García Puga](https://github.com/javiergp) (Madrid)
+- [Edraí Brosa](https://github.com/edrabc) (Barcelona)
+- [Javier Lagunas](https://github.com/jalp) (Barcelona)
+- [Alonso Alvarez](https://github.com/alalga) (Madrid)
