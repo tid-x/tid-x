@@ -21,6 +21,6 @@ layout: default
 |15:00 - 15:30  | Chatting with your app // Moving UI to IM | [Fernando Rodriguez Sela](fernando_rodriguez_sela.md)|
 |15:30 - 16:00  | Getting started with Tensorflow | [Gustavo García](gustavo_garcia.md)|
 |16:00 - 16:30  | *Coffee break*    |
-|16:30 - 17:00  | Why do lazy developers write beautiful code? |    Javier Arias|
+|16:30 - 17:00  | Why do lazy developers write beautiful code? |    [Javier Arias](javier_arias.md)|
 |17:00 - 17:30  | How I ended up in the hall of shame... repeatedly! | [Tomek Wszelaki](tomek_wszelaki.html)|
 |17:30 - 18:00  | The mindful developer - Becoming Jedi developer|  [Shay Cohen](shay_cohen.md)|
