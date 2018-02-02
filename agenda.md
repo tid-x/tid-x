@@ -9,7 +9,7 @@ layout: default
 
 |09:00 - 09:15  | Welcome | [Juan de Bravo](juan_de_bravo.html)|
 |09:15 - 10:00  | Keynote | [Carlos Domingo](carlos_domingo.html)|
-|10:00 - 10:30  | Becoming "as a Service" | Rubén González|
+|10:00 - 10:30  | Becoming "as a Service" | [Rubén González](ruben_gonzalez.html)|
 |10:30 - 11:00  | How we use at Zalando an event source architecture at the core of our system  |  [Sergi Sorribas](sergi_sorribas.md)|
 |11:00 - 11:30  | Advanced orchestration techniques in Kubernetes | [Javier Provecho Fernández](javier_provecho_fernandez.md)|
 |11:30 - 12:00  | *Coffee break*    |
