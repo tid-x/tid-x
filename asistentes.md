@@ -81,3 +81,4 @@ localización).
 - [Javier García Puga](https://github.com/javiergp) (Madrid)
 - [Edraí Brosa](https://github.com/edrabc) (Barcelona)
 - [Javier Lagunas](https://github.com/jalp) (Barcelona)
+- [Alonso Alvarez](https://github.com/alalga) (Madrid)
