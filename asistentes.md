@@ -35,7 +35,6 @@ localización).
 - [Pablo Jiménez](https://github.com/pablix) (Madrid)
 - [Alberto Baselga](https://github.com/albertobaselga) (Madrid)
 - [Borja Marcos](https://github.com/borjamarcos) (Madrid)
-- [Victor Espinosa](https://github.com/Vespinosa) (Madrid)
 - [David Vallejo](https://github.com/dvallejo) (Madrid)
 - [Álvaro Sánchez](https://github.com/alvarosperez) (Madrid)
 - [Daniel Pous](https://github.com/softsapiens) (Barcelona)
