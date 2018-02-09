@@ -83,3 +83,4 @@ localización).
 - [Alonso Alvarez](https://github.com/alalga) (Madrid)
 - [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
 - [Víctor Ruiz](https://github.com/victoruiz) (Barcelona)
+- [Pablo Guijarro](https://github.com/pabloge) (Madrid)
