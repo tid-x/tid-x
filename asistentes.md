@@ -82,6 +82,7 @@ localización).
 - [Javier Lagunas](https://github.com/jalp) (Barcelona)
 - [Alonso Alvarez](https://github.com/alalga) (Madrid)
 - [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
+- [Domenico Giustiniano](https://github.com/GiustinianoD) (Madrid)
 - [Víctor Ruiz](https://github.com/victoruiz) (Barcelona)
 - [Pablo Guijarro](https://github.com/pabloge) (Madrid)
 - [Javier Martínez Elicegui](https://github.com/elicegui) (Boecillo)
