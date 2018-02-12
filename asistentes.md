@@ -84,3 +84,4 @@ localización).
 - [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
 - [Víctor Ruiz](https://github.com/victoruiz) (Barcelona)
 - [Pablo Guijarro](https://github.com/pabloge) (Madrid)
+- [Javier Martínez Elicegui](https://github.com/elicegui) (Boecillo)
