@@ -86,3 +86,4 @@ localización).
 - [Víctor Ruiz](https://github.com/victoruiz) (Barcelona)
 - [Pablo Guijarro](https://github.com/pabloge) (Madrid)
 - [Javier Martínez Elicegui](https://github.com/elicegui) (Boecillo)
+- [César Calatrava Ruiz](https://github.com/cesarca) (Madrid)
