@@ -86,3 +86,4 @@ localización).
 - [Pablo Guijarro](https://github.com/pabloge) (Madrid)
 - [Javier Martínez Elicegui](https://github.com/elicegui) (Boecillo)
 - [César Calatrava Ruiz](https://github.com/cesarca) (Madrid)
+- [Antonio Robres Turon](https://github.com/twiindan) (Barcelona)
