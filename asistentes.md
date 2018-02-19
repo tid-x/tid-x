@@ -89,3 +89,4 @@ localización).
 - [Antonio Robres Turon](https://github.com/twiindan) (Barcelona)
 - [David Artuñedo](https://github.com/davidR2) (Madrid)
 - [Sebastián Ortega](https://github.com/sortega) (Madrid)
+- [Fede Alonso](https://github.com/feder488) (Madrid)
