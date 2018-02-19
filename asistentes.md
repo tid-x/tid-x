@@ -88,3 +88,4 @@ localización).
 - [César Calatrava Ruiz](https://github.com/cesarca) (Madrid)
 - [Antonio Robres Turon](https://github.com/twiindan) (Barcelona)
 - [David Artuñedo](https://github.com/davidR2) (Madrid)
+- [Sebastián Ortega](https://github.com/sortega) (Madrid)
