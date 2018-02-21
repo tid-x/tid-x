@@ -31,7 +31,6 @@ localización).
 - [Juanjo Martín](https://github.com/jjmr) (Madrid)
 - [Javier Sigler](https://github.com/javiersigler) (Madrid)
 - [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Boecillo)
-- [Johan Paz](https://github.com/Johan-Paz) (Madrid)
 - [Pablo Jiménez](https://github.com/pablix) (Madrid)
 - [Alberto Baselga](https://github.com/albertobaselga) (Madrid)
 - [Borja Marcos](https://github.com/borjamarcos) (Madrid)
