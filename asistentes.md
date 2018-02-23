@@ -89,3 +89,4 @@ localización).
 - [David Artuñedo](https://github.com/davidR2) (Madrid)
 - [Sebastián Ortega](https://github.com/sortega) (Madrid)
 - [Fede Alonso](https://github.com/feder488) (Madrid)
+- [Manuel Lopez](https://github.com/mlopezm) (Madrid)
