@@ -4,5 +4,5 @@ layout: default
 
 ## Merchandising
 
-Es un punto importante, pero no urgente. Conforme nos acerquemos al evento le daremos
-una vuelta.
+En breve colgaremos los recursos gráficos que utilizamos para crear pegatinas
+y tazas de recuerdo.
