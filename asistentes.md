@@ -90,3 +90,4 @@ localización).
 - [Sebastián Ortega](https://github.com/sortega) (Madrid)
 - [Fede Alonso](https://github.com/feder488) (Madrid)
 - [Manuel Lopez](https://github.com/mlopezm) (Madrid)
+- [Ignacio Molina Cuquerella](https://github.com/ignaciomolina) (Madrid)
