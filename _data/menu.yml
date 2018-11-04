@@ -1,31 +1,25 @@
 
 items:
 - title: Bienvenido
-  url: index.html
+  url: index
 
 - title: Fechas
-  url: fechas.html
+  url: fechas
 
 - title: Agenda
-  url: agenda.html
+  url: agenda
 
 - title: Social event
-  url: social-event.html
+  url: social-event
 
 - title: Ubicación
-  url: localizacion.html
+  url: localizacion
 
 - title: Asistentes
-  url: asistentes.html
+  url: asistentes
 
 - title: Código de conducta
-  url: coc.html
+  url: coc
 
-- title: Alojamiento
-  url: alojamiento.html
-
-- title: Merchandising
-  url: merchandising.html
-
-- title: Multimedia
-  url: multimedia.html
+- title: Edición 2018
+  url: 2018
