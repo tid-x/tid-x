@@ -15,3 +15,5 @@ el mismo formato que el resto de asistentes (nombre, enlace a cuenta personal en
 localización).
 
 - [Sebastián Ortega](https://github.com/sortega) (Barcelona)
+- [Juan de Bravo](https://github.com/juandebravo) (Barcelona)
+- [Gustavo García](https://github.com/ggarber) (Madrid)
