@@ -18,3 +18,4 @@ localización).
 - [Juan de Bravo](https://github.com/juandebravo) (Barcelona)
 - [Gustavo García](https://github.com/ggarber) (Madrid)
 - [Iván Montes](https://github.com/drslump) (Barcelona)
+- [Javier Mendiara](https://github.com/jmendiara) (Huesca)
