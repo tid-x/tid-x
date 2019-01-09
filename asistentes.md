@@ -20,3 +20,4 @@ localización).
 - [Miguel Angel Cañas](https://github.com/macvaz) (Madrid)
 - [Iván Montes](https://github.com/drslump) (Barcelona)
 - [Javier Mendiara](https://github.com/jmendiara) (Huesca)
+- [Javier López](https://github.com/jalopez) (Madrid)
