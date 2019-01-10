@@ -22,3 +22,4 @@ localización).
 - [Javier Mendiara](https://github.com/jmendiara) (Huesca)
 - [Javier López](https://github.com/jalopez) (Madrid)
 - [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
+- [Guido García](https://github.com/palmerabollo) (Valladolid)
