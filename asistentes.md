@@ -21,3 +21,4 @@ localización).
 - [Iván Montes](https://github.com/drslump) (Barcelona)
 - [Javier Mendiara](https://github.com/jmendiara) (Huesca)
 - [Javier López](https://github.com/jalopez) (Madrid)
+- [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
