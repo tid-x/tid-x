@@ -23,3 +23,4 @@ localización).
 - [Javier López](https://github.com/jalopez) (Madrid)
 - [Ricardo Martínez Grazziani](https://github.com/reimago) (Madrid)
 - [Juan Agüí Martín](https://github.com/jagui) (Madrid)
+- [Guido García](https://github.com/palmerabollo) (Valladolid)
