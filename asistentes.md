@@ -28,3 +28,4 @@ localización).
 - [David Lozano Llanos](https://github.com/dlozlla) (Valladolid)
 - [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
 - [César Calatrava](https://github.com/cesarca) (Madrid)
+- [Fede Alonso](https://github.com/FedeAlonso) (Madrid)
