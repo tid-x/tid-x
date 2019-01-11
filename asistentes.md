@@ -27,3 +27,4 @@ localización).
 - [Fernando Rodríguez Sela](https://github.com/frsela) (Madrid)
 - [David Lozano Llanos](https://github.com/dlozlla) (Valladolid)
 - [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
+- [César Calatrava](https://github.com/cesarca) (Madrid)
