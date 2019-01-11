@@ -26,4 +26,4 @@ localización).
 - [Guido García](https://github.com/palmerabollo) (Valladolid)
 - [Fernando Rodríguez Sela](https://github.com/frsela) (Madrid)
 - [David Lozano Llanos](https://github.com/dlozlla) (Valladolid)
-
+- [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
