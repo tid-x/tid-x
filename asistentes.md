@@ -29,3 +29,4 @@ localización).
 - [Carlos Galisteo](https://github.com/cgalisteo) (Madrid)
 - [César Calatrava](https://github.com/cesarca) (Madrid)
 - [Fede Alonso](https://github.com/FedeAlonso) (Madrid)
+- [Javier Arias](https://github.com/javierarilos) (Barcelona)
