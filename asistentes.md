@@ -25,3 +25,5 @@ localización).
 - [Juan Agüí Martín](https://github.com/jagui) (Madrid)
 - [Guido García](https://github.com/palmerabollo) (Valladolid)
 - [Fernando Rodríguez Sela](https://github.com/frsela) (Madrid)
+- [David Lozano Llanos](https://github.com/dlozlla) (Valladolid)
+
