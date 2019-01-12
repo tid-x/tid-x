@@ -30,3 +30,4 @@ localización).
 - [César Calatrava](https://github.com/cesarca) (Madrid)
 - [Fede Alonso](https://github.com/FedeAlonso) (Madrid)
 - [Javier Arias](https://github.com/javierarilos) (Barcelona)
+- [Gorka Revilla](https://github.com/gorkarevilla) (Madrid)
