@@ -4,4 +4,4 @@ layout: default
 
 ## Ubicación
 
-Por confirmar.
+Campus Madrid.
