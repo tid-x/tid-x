@@ -33,3 +33,4 @@ localización).
 - [Roberto Perez](https://github.com/robjperez) (Madrid)
 - [Gorka Revilla](https://github.com/gorkarevilla) (Madrid)
 - [Javier Provecho](https://github.com/javierprovecho) (Valladolid)
+- [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Valladolid)
