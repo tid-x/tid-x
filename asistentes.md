@@ -34,3 +34,4 @@ localización).
 - [Gorka Revilla](https://github.com/gorkarevilla) (Madrid)
 - [Javier Provecho](https://github.com/javierprovecho) (Valladolid)
 - [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Valladolid)
+- [Antonio Robres Turon](https://github.com/twiindan)(Barcelona)
