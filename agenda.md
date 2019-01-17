@@ -28,4 +28,4 @@ Recordad que lo que se vota son las charlas, no las personas. Por favor que nadi
 se sienta herido si ve 👎 en su propuesta.
 
 ### Plazo para presentar propuestas y realizar votaciones
-El plazo finaliza el 17 de enero de 2018.
+El plazo finaliza el 26 de enero de 2019.
