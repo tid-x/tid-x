@@ -38,4 +38,8 @@ localización).
 - [Edraí Brosa](https://github.com/edrabc) (Barcelona)
 - [Sergio Mallo](https://github.com/smallo) (Barcelona)
 - [Jacob Cañadas](https://github.com/jacobcr) (Barcelona)
+- [Francisco Sáez](https://www.linkedin.com/in/franciscosaezarance/) (Madrid)
+- [Alonso Álvarez](https://www.linkedin.com/in/alalga/) (Madrid)
+- [Javier Martínez](https://www.linkedin.com/in/javiermartinezalvarez/) (Valladolid)
+- [Jorge Serna](https://www.linkedin.com/in/jserna/) (Madrid)
 
