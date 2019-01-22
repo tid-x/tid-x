@@ -43,4 +43,5 @@ localización).
 - [Javier Martínez](https://www.linkedin.com/in/javiermartinezalvarez/) (Valladolid)
 - [Jorge Serna](https://www.linkedin.com/in/jserna/) (Madrid)
 - [David Artuñedo](https://www.linkedin.com/in/david-artu%C3%B1edo-84620a6/) (Madrid)
+- [Xavier Val](https://github.com/XavierVal) (Madrid)
 
