@@ -45,3 +45,4 @@ localización).
 - [David Artuñedo](https://www.linkedin.com/in/david-artu%C3%B1edo-84620a6/) (Madrid)
 - [Xavier Val](https://github.com/XavierVal) (Madrid)
 - [Ignacio Blasco](https://github.com/elnopintan) (Madrid)
+- [Rafael Oleza](http://github.com/rafeca) (Londres)
