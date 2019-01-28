@@ -46,3 +46,5 @@ localización).
 - [Xavier Val](https://github.com/XavierVal) (Madrid)
 - [Ignacio Blasco](https://github.com/elnopintan) (Madrid)
 - [Rafael Oleza](http://github.com/rafeca) (Londres)
+- [David Perales](https://github.com/dperales) (Madrid) 
+
