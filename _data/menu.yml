@@ -15,6 +15,9 @@ items:
 - title: Ubicación
   url: localizacion
 
+- title: Inscripción
+  url: inscripcion
+
 - title: Asistentes
   url: asistentes
 
