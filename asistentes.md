@@ -47,4 +47,5 @@ localización).
 - [Ignacio Blasco](https://github.com/elnopintan) (Madrid)
 - [Rafael Oleza](http://github.com/rafeca) (Londres)
 - [David Perales](https://github.com/dperales) (Madrid) 
+- [Borja Marcos](https://es.linkedin.com/in/borjamarcos) (Madrid)
 
