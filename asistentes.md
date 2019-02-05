@@ -51,4 +51,5 @@ localización).
 - [Guillermo López](https://github.com/willyaranda) (Madrid)
 - [Juanjo Martín](https://github.com/jjmr) (Madrid)
 - [Francisco Martínez](https://github.com/franmrl) (Barcelona)
+- [Arturo Gutiérrez](https://github.com/arturogutierrez) (Madrid)
 
