@@ -53,3 +53,4 @@ localización).
 - [Francisco Martínez](https://github.com/franmrl) (Barcelona)
 - [Arturo Gutiérrez](https://github.com/arturogutierrez) (Madrid)
 - [Ana Belén García](https://github.com/anabelengp) (Madrid)
+- [Tomás Montserrat](https://github.com/tomas-mm) (Barcelona)
