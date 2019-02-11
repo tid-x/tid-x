@@ -54,3 +54,4 @@ localización).
 - [Arturo Gutiérrez](https://github.com/arturogutierrez) (Madrid)
 - [Ana Belén García](https://github.com/anabelengp) (Madrid)
 - [Tomás Montserrat](https://github.com/tomas-mm) (Barcelona)
+- [Rafael González](https://github.com/astrorafael) (Madrid)
