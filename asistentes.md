@@ -55,3 +55,4 @@ localización).
 - [Ana Belén García](https://github.com/anabelengp) (Madrid)
 - [Tomás Montserrat](https://github.com/tomas-mm) (Barcelona)
 - [Rafael González](https://github.com/astrorafael) (Madrid)
+- [Jose Maria Villascusa](https://github.com/jason-vp) (Madrid)
