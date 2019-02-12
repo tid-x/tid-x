@@ -56,3 +56,7 @@ localización).
 - [Tomás Montserrat](https://github.com/tomas-mm) (Barcelona)
 - [Rafael González](https://github.com/astrorafael) (Madrid)
 - [Jose Maria Villascusa](https://github.com/jason-vp) (Madrid)
+- [Jesus Macias Portela](https://github.com/jmaciasportela) (Valladolid)
+- [Daniel Velasco Benito](https://github.com/dvelben) (Valladolid)
+- [Samuel Alfageme Sainz](https://github.com/samualfageme) (Valladolid)
+
