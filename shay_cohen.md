@@ -12,5 +12,5 @@ biography: |
 
     Past companies - Telefonica, Microsoft, VocalTec & TestFairy.
 
-    Currently focusing in the worlds of chatbots, NLP/NLU and machine learning for placing content in social networks.
+    Currently focusing in building an eco system for developers to build applications and web solutions on top of the Wix platform.
 ---
