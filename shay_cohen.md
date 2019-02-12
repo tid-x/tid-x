@@ -2,7 +2,7 @@
 layout: speaker
 speaker: Shay Cohen
 linkedin: https://www.linkedin.com/in/shaycohen/
-job_title: CTO at Tokabot
+job_title: Development Manager at Wix
 twitter: ShaykeC
 picture: images/speakers/shay_cohen.png
 biography: |
