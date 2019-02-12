@@ -59,4 +59,4 @@ localización).
 - [Jesus Macias Portela](https://github.com/jmaciasportela) (Valladolid)
 - [Daniel Velasco Benito](https://github.com/dvelben) (Valladolid)
 - [Samuel Alfageme Sainz](https://github.com/samualfageme) (Valladolid)
-
+- [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
