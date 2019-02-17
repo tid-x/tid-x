@@ -20,4 +20,4 @@ layout: default
 |16:00 - 16:30 | *Coffee break* |
 |16:30 - 17:00 | A, T, C y G las cuatro letras que nos definen | [Fernando Rodriguez Sela](fernando_rodriguez_sela)|
 |17:00 - 17:30 | How can we learn X2 |  [Shay Cohen](shay_cohen)|
-|17:30 - 18:00 | Una cuestión de escala y el poder de la narrativa|  [Alonso Alonso](alonso_alonso) |
+|17:30 - 18:00 | Una cuestión de escala y el poder de la narrativa|  [Alonso Alvarez](alonso_alvarez) |
