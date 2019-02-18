@@ -6,7 +6,7 @@ layout: default
 </div>
 
 |09:00 - 09:15 | Welcome | [Juan de Bravo](juan_de_bravo.html)|
-|09:30 - 10:00 | From MoMs to DaDs. The evolution of EAI | [Rubén González](ruben_gonzalez)|
+|09:15 - 10:00 | From MoMs to DaDs. The evolution of EAI | [Rubén González](ruben_gonzalez)|
 |10:00 - 10:30 | A Journey from 1K to 1M RPS | [Edrai Brosa](edrai_brosa.md)|
 |10:30 - 11:00 | Avoiding the Tower of Babel: effectively evolving events in micro-service ecosystems | [Sebastián Ortega](sebastian_ortega)
 |11:00 - 11:30 | Cloud Native Landscape | [Javier Provecho Fernández](javier_provecho_fernandez)|
