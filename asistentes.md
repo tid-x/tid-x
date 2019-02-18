@@ -61,3 +61,4 @@ localización).
 - [Samuel Alfageme Sainz](https://github.com/samualfageme) (Valladolid)
 - [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
 - [José María González Calabozo](https://github.com/calabozo) (Madrid)
+- [Óscar Barrios Torrero](https://github.com/srbarrios) (Tarragona)
