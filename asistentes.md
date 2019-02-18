@@ -63,3 +63,4 @@ localización).
 - [José María González Calabozo](https://github.com/calabozo) (Madrid)
 - [Óscar Barrios Torrero](https://github.com/srbarrios) (Tarragona)
 - [Shay Cohen](https://github.com/shay) (Tel Aviv)
+- [Julio González Gil](https://github.com/juliogonzalez) (Madrid)
