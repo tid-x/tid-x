@@ -64,3 +64,4 @@ localización).
 - [Óscar Barrios Torrero](https://github.com/srbarrios) (Tarragona)
 - [Shay Cohen](https://github.com/shay) (Tel Aviv)
 - [Andrey Pindus](https://github.com/andreypindus) (Madrid)
+- [Julio González Gil](https://github.com/juliogonzalez) (Madrid)
