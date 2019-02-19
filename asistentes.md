@@ -62,3 +62,4 @@ localización).
 - [Marcelino Veiga Tuimil](https://github.com/sonmarce) (Madrid)
 - [José María González Calabozo](https://github.com/calabozo) (Madrid)
 - [Óscar Barrios Torrero](https://github.com/srbarrios) (Tarragona)
+- [Andrey Pindus](https://github.com/andreypindus) (Madrid)
