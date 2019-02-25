@@ -67,3 +67,4 @@ localización).
 - [Julio González Gil](https://github.com/juliogonzalez) (Madrid)
 - [Juan García Longarón](https://mobilife.es) (Madrid)
 - [Roberto Mier Escandón](https://github.com/rmescandon) (Valladolid)
+- [Jaime Martin Jimenez](https://github.com/jaimemrjm) (Madrid)
