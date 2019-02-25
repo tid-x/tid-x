@@ -68,3 +68,5 @@ localización).
 - [Juan García Longarón](https://mobilife.es) (Madrid)
 - [Roberto Mier Escandón](https://github.com/rmescandon) (Valladolid)
 - [Jaime Martin Jimenez](https://github.com/jaimemrjm) (Madrid)
+- [José Luis Urien](https://github.com/jlurien) (Valladolid)
+
