@@ -34,7 +34,7 @@ localización).
 - [Gorka Revilla](https://github.com/gorkarevilla) (Madrid)
 - [Javier Provecho](https://github.com/javierprovecho) (Valladolid)
 - [Jose Antonio Rodríguez](https://github.com/JoseAntonioRodriguez) (Valladolid)
-- [Antonio Robres Turon](https://github.com/twiindan)(Barcelona)
+- [Antonio Robres Turon](https://github.com/twiindan) (Barcelona)
 - [Edraí Brosa](https://github.com/edrabc) (Barcelona)
 - [Sergio Mallo](https://github.com/smallo) (Barcelona)
 - [Jacob Cañadas](https://github.com/jacobcr) (Barcelona)
@@ -70,5 +70,4 @@ localización).
 - [Jaime Martin Jimenez](https://github.com/jaimemrjm) (Madrid)
 - [José Luis Urien](https://github.com/jlurien) (Valladolid)
 - [Fernando de la Iglesia](https://github.com/fernandodelaiglesia) (Madrid)
-
-
+- [Pedro Padilla](https://github.com/driyu) (Madrid)
