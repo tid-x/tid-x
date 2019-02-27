@@ -70,3 +70,4 @@ localización).
 - [José Luis Urien](https://github.com/jlurien) (Valladolid)
 - [Fernando de la Iglesia](https://github.com/fernandodelaiglesia) (Madrid)
 - [Pedro Padilla](https://github.com/driyu) (Madrid)
+- [Pablo Guijarro](https://github.com/pabloge) (Madrid)
