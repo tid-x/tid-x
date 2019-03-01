@@ -70,4 +70,4 @@ localización).
 - [Pedro Padilla](https://github.com/driyu) (Madrid)
 - [Pablo Guijarro](https://github.com/pabloge) (Madrid)
 - [Daniel Morán](https://github.com/dmoranj) (Barcelona)
-- [Pierre Plaza] (https://github.com/Pierreplazatron) (Madrid)
+- [Pierre Plaza](https://github.com/Pierreplazatron) (Madrid)
