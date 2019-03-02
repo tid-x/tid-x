@@ -9,7 +9,7 @@ layout: default
 |09:15 - 10:00 | From MoMs to DaDs. The evolution of EAI | [Rubén González](ruben_gonzalez)|
 |10:00 - 10:30 | A Journey from 1K to 1M RPS | [Edrai Brosa](edrai_brosa.md)|
 |10:30 - 11:00 | Avoiding the Tower of Babel: effectively evolving events in micro-service ecosystems | [Sebastián Ortega](sebastian_ortega)
-|11:00 - 11:30 | Cloud Native Landscape | [Javier Provecho Fernández](javier_provecho_fernandez)|
+|11:00 - 11:30 | WebRTC - Present and Future | [Gustavo García](gustavo_garcia)|
 |11:30 - 12:00 | *Coffee break* |
 |12:00 - 12:30 | TensorFlow.js 101 | [Guido García](guido_garcia)|
 |12:30 - 13:00 | Reactive programming with Rx | [Javier López](javier_lopez)|
