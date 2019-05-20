@@ -3,7 +3,22 @@ layout: default
 ---
 
 <div id="agenda">
+  En este reproductor de Youtube puedes encontrar todas las charlas.
+  <div>
+  ​   <iframe
+          width="620"
+          height="340"
+          src="https://www.youtube.com/embed/videoseries?list=PL94ziy7W5BvuzZT0WhIrLmuxSMimUPNaP"
+          frameborder="0"
+          webkitAllowFullScreen
+          mozallowfullscreen
+          allowFullScreen
+          allow="autoplay; encrypted-media">
+      </iframe>
+  </div>
 </div>
+
+## Agenda
 
 |09:00 - 09:15 | Welcome | [Juan de Bravo](juan_de_bravo.html)|
 |09:15 - 10:00 | From MoMs to DaDs. The evolution of EAI | [Rubén González](ruben_gonzalez)|
