@@ -15,9 +15,10 @@ jobs:
     - name: Editar el fichero
       shell: bash
       env:
-        username: ${{github.event.client_payload.name}}
+        name: ${{github.event.client_payload.name}}
         personal_url: ${{github.event.client_payload.personal_url}}
         location: ${{github.event.client_payload.location}}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
         git checkout -b $BRANCH_NAME
