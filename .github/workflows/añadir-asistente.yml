@@ -24,8 +24,9 @@ jobs:
         echo "This is the branch name: ${BRANCH_NAME}"
         git checkout -b $BRANCH_NAME
         echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
+        git add asistentes.md
         git commit -m "Add ${name} to asistentes"
-        git push -u origin $BRANCH_NAME
+        git push -u origin
     - name: Crear PR
       shell: bash
       env:
