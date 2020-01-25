@@ -22,6 +22,7 @@ jobs:
       run: |
         git fetch
         git checkout master
+        echo "add/2020-${personal_url}-${name}-${location}"
         BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
         echo "This is the branch name: ***${BRANCH_NAME}***"
         echo "NEXT LINE"
