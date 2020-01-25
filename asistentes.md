@@ -6,3 +6,4 @@ layout: default
 
 Por confirmar.
 
+- [Juan de Bravo](https://juandebravo.com) (Barcelona)
