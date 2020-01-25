@@ -21,8 +21,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
+        echo "This is the branch name: ${BRANCH_NAME}"
         git checkout -b $BRANCH_NAME
         echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
+        git commit -m "Add ${name} to asistentes"
         git push -u origin $BRANCH_NAME
     - name: Crear PR
       shell: bash
