@@ -10,4 +10,4 @@ rellena <a href="https://forms.arengu.com/157999349221948772" target="_blank">es
 y te añadiremos lo antes posible.
 
 ## Lista de asistentes
-- [Juan de Bravo](https://juandebravo.com) (Barcelona)
+- [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
