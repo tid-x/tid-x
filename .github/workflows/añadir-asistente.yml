@@ -19,7 +19,7 @@ jobs:
         personal_url: ${{github.event.client_payload.personal_url}}
         location: ${{github.event.client_payload.location}}
       run: |
-        BRANCH_NAME=echo "add/2020-${personal_url}-${name}-${location}" | base64
+        BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
         git checkout -b $BRANCH_NAME
         echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
         git push -u origin $BRANCH_NAME
