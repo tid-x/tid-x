@@ -34,6 +34,7 @@ jobs:
       shell: bash
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        name: ${{github.event.client_payload.name}}
       run: |
         curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
-        bin/hub pull-request -p
+        bin/hub pull-request -p -m "Añado a ${name}"
