@@ -12,3 +12,21 @@ jobs:
       env:
         GITHUB_CONTEXT: ${{ toJson(github) }}
       run: echo "$GITHUB_CONTEXT"
+    - name: Editar el fichero
+      shell: bash
+      env:
+        username: ${{github.event.client_payload.name}}
+        personal_url: ${{github.event.client_payload.personal_url}}
+        location: ${{github.event.client_payload.location}}
+      run: |
+        BRANCH_NAME="add/2020-${personal_url}-${name}-${location}"
+        git checkout -b $BRANCH_NAME
+        echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
+        git push -u origin $BRANCH_NAME
+    - name: Crear PR
+      shell: bash
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
+        bin/hub pull-request -p
