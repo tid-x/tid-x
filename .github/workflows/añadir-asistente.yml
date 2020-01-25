@@ -20,17 +20,14 @@ jobs:
         location: ${{github.event.client_payload.location}}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git fetch
         git checkout master
         echo "add/2020-${personal_url}-${name}-${location}"
-        BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
-        echo "This is the branch name: ***${BRANCH_NAME}***"
-        echo "NEXT LINE"
+        BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64 -w 0)
         git checkout -b $BRANCH_NAME
         echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
         git add asistentes.md
         git commit -m "Add ${name} to asistentes"
-        git push -u origin
+        git push -u origin $BRANCH_NAME
     - name: Crear PR
       shell: bash
       env:
