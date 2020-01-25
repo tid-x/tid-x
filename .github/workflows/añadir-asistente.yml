@@ -20,6 +20,7 @@ jobs:
         location: ${{github.event.client_payload.location}}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        git fetch
         git checkout master
         BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
         echo "This is the branch name: ${BRANCH_NAME}"
