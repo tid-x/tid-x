@@ -4,7 +4,6 @@ on: [repository_dispatch]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -13,7 +12,3 @@ jobs:
       env:
         GITHUB_CONTEXT: ${{ toJson(github) }}
       run: echo "$GITHUB_CONTEXT"
-    - name: Dump Client payload
-      env:
-        CLIENT_PAYLOAD: ${{ toJson(client_payload) }}
-      run: echo "$CLIENT_PAYLOAD"
