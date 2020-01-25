@@ -23,7 +23,8 @@ jobs:
         git fetch
         git checkout master
         BRANCH_NAME=$(echo "add/2020-${personal_url}-${name}-${location}" | base64)
-        echo "This is the branch name: ${BRANCH_NAME}"
+        echo "This is the branch name: ***${BRANCH_NAME}***"
+        echo "NEXT LINE"
         git checkout -b $BRANCH_NAME
         echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
         git add asistentes.md
