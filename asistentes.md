@@ -11,3 +11,4 @@ y te añadiremos lo antes posible.
 
 ## Lista de asistentes
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
+- [Alonso Alvarez](https://twitter.com/alalga) (Parque Regional del Guadarrama)
