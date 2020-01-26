@@ -11,3 +11,4 @@ y te añadiremos lo antes posible.
 
 ## Lista de asistentes
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
+- [Gustavo Garcia](https://gitHub.com/ggarber) (Madrid)
