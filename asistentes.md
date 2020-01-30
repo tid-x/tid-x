@@ -13,3 +13,4 @@ y te añadiremos lo antes posible.
 - [Gustavo Garcia](https://gitHub.com/ggarber) (Madrid)
 - [Alonso Alvarez](https://twitter.com/alalga) (Parque Regional del Guadarrama)
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
+- [Sebastián Ortega](https://sortega.github.io/) (Barcelona)
