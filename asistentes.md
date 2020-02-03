@@ -15,3 +15,4 @@ y te añadiremos lo antes posible.
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
 - [Sebastián Ortega](https://sortega.github.io/) (Barcelona)
 - [César Calatrava](https://github.com/cesarca) (Madrid)
+- [Jaime Martín](https://github.com/jaimemrjm) (Madrid)
