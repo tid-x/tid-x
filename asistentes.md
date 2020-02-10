@@ -17,3 +17,4 @@ y te añadiremos lo antes posible.
 - [César Calatrava](https://github.com/cesarca) (Madrid)
 - [Jaime Martín](https://github.com/jaimemrjm) (Madrid)
 - [Fede Alonso](https://www.linkedin.com/in/fede-alonso/) (Madrid)
+- [Ruben Gonzalez Blanco](https://www.linkedin.com/in/rubengblanco/) (Madrid)
