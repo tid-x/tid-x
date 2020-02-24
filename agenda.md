@@ -28,4 +28,4 @@ Recordad que lo que se vota son las charlas, no las personas. Por favor que nadi
 se sienta herido si ve 👎 en su propuesta.
 
 ### Plazo para presentar propuestas y realizar votaciones
-El plazo finaliza el 15 de febrero de 2020.
+El plazo finaliza el 31 de marzo de 2020.

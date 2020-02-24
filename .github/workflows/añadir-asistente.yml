@@ -17,16 +17,15 @@ jobs:
         env:
           name: ${{github.event.client_payload.name}}
           personal_url: ${{github.event.client_payload.personal_url}}
-          location: ${{github.event.client_payload.location}}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git checkout master
           git config --global user.email "juandebravo@gmail.com"
           git config --global user.name "TID-X BOT"
-          BRANCH_NAME=$(echo "add/$(date +%s)-${personal_url}-${name}-${location}" | base64 -w 0)
+          BRANCH_NAME=$(echo "add/$(date +%s)-${personal_url}-${name}" | base64 -w 0)
           git checkout -b $BRANCH_NAME
-          [ -z "$personal_url" ] && echo "- ${name} (${location})" || echo "- [${name}](${personal_url}) (${location})" >> asistentes.md
-          git add asistentes.md
+          [ -z "$personal_url" ] && echo "- ${name}" || echo "- [${name}](${personal_url})" >> inscripcion.md
+          git add inscripcion.md
           git commit -m "Add ${name} to asistentes"
           git push -u origin $BRANCH_NAME
       - name: Crear PR
