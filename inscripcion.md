@@ -16,3 +16,4 @@ aquí abajo.
 
 ## Listado público de asistentes
 - [Juan de Bravo](https://www.juandebravo.com)
+- [Gustavo Garcia Bernardo](https://twitter.com/anarchyco)
