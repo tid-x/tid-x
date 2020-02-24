@@ -7,15 +7,8 @@ asistir a TID-x.
 
 Si tu nombre no aparece en la lista y quieres asistir a TID-x, por favor
 rellena <a href="https://forms.arengu.com/157999349221948772" target="_blank">este formulario</a>
-y te añadiremos lo antes posible.
+y te añadiremos lo antes posible. El formulario solicita el DNI porque es necesario en el
+listado que se entragará al personal de seguridad donde se realiza el evento, pero no se
+publicará en ninguna web.
 
 ## Lista de asistentes
-- [Gustavo Garcia](https://gitHub.com/ggarber) (Madrid)
-- [Alonso Alvarez](https://twitter.com/alalga) (Parque Regional del Guadarrama)
-- [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
-- [Sebastián Ortega](https://sortega.github.io/) (Barcelona)
-- [César Calatrava](https://github.com/cesarca) (Madrid)
-- [Jaime Martín](https://github.com/jaimemrjm) (Madrid)
-- [Fede Alonso](https://www.linkedin.com/in/fede-alonso/) (Madrid)
-- [Ruben Gonzalez Blanco](https://www.linkedin.com/in/rubengblanco/) (Madrid)
-- [Guido García](https://guidogarcia.net) (Valladolid)
