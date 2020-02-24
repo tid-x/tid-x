@@ -15,3 +15,4 @@ Si marcas la opción de aparecer en el listado público de asistentes, tu nombre
 aquí abajo.
 
 ## Listado público de asistentes
+- [Juan de Bravo](https://www.juandebravo.com)
