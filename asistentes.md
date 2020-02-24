@@ -12,3 +12,4 @@ listado que se entragará al personal de seguridad donde se realiza el evento, p
 publicará en ninguna web.
 
 ## Lista de asistentes
+- [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
