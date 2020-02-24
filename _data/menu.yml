@@ -1,31 +1,27 @@
-
 items:
-- title: Bienvenido
-  url: index
+  - title: Bienvenido
+    url: index
 
-- title: Fechas
-  url: fechas
+  - title: Fechas
+    url: fechas
 
-- title: Agenda
-  url: agenda
+  - title: Agenda
+    url: agenda
 
-- title: Social event
-  url: social-event
+  - title: Social event
+    url: social-event
 
-- title: Ubicación
-  url: localizacion
+  - title: Ubicación
+    url: localizacion
 
-- title: Inscripción
-  url: inscripcion
+  - title: Inscripción
+    url: inscripcion
 
-- title: Asistentes
-  url: asistentes
+  - title: Código de conducta
+    url: coc
 
-- title: Código de conducta
-  url: coc
+  - title: Edición 2018
+    url: 2018
 
-- title: Edición 2018
-  url: 2018
-
-- title: Edición 2019
-  url: 2019
+  - title: Edición 2019
+    url: 2019
