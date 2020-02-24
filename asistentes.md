@@ -13,3 +13,4 @@ publicará en ninguna web.
 
 ## Lista de asistentes
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
+- [Gustavo Garcia](https://twitter.com/anarchyco) (Madrid)
