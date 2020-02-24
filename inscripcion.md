@@ -17,3 +17,4 @@ aquí abajo.
 ## Listado público de asistentes
 - [Juan de Bravo](https://www.juandebravo.com)
 - [Gustavo Garcia Bernardo](https://twitter.com/anarchyco)
+- [Fernando de la Iglesia](https://medium.com/@fernando.delaiglesia)
