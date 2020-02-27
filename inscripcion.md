@@ -18,3 +18,4 @@ aquí abajo.
 - [Juan de Bravo](https://www.juandebravo.com)
 - [Gustavo Garcia Bernardo](https://twitter.com/anarchyco)
 - [Germán Toro del Valle](https://www.twitter.com/gtorodelvalle)
+- [Fernando de la Iglesia](https://medium.com/@fernando.delaiglesia)
