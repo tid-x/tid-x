@@ -20,3 +20,4 @@ aquí abajo.
 - [Germán Toro del Valle](https://www.twitter.com/gtorodelvalle)
 - [Fernando de la Iglesia](https://medium.com/@fernando.delaiglesia)
 - [David Lopez Miguel](https://twitter.com/espencer)
+- [Fernando Rodríguez Sela](https://blog.ferimer.es/)
