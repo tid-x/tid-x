@@ -19,3 +19,4 @@ aquí abajo.
 - [Gustavo Garcia Bernardo](https://twitter.com/anarchyco)
 - [Germán Toro del Valle](https://www.twitter.com/gtorodelvalle)
 - [Fernando de la Iglesia](https://medium.com/@fernando.delaiglesia)
+- [David Lopez Miguel](https://twitter.com/espencer)
