@@ -21,3 +21,4 @@ aquí abajo.
 - [Fernando de la Iglesia](https://medium.com/@fernando.delaiglesia)
 - [David Lopez Miguel](https://twitter.com/espencer)
 - [Fernando Rodríguez Sela](https://blog.ferimer.es/)
+- [Francisco Javier Zorzano Mier](https://www.linkedin.com/in/fjzorzano/)
