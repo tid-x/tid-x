@@ -34,8 +34,7 @@
           </span>
 
           <ul>
-             {% assign current = page.url | split: '/' | last %}
-
+             {% assign current = page.url | split: '.' | first %}
              {% for item in site.data.menu.items %}
                 <li class="item-menu {% if item.url == current %}active{% endif %}"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
              {% endfor %}
