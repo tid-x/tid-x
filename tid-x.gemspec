@@ -18,4 +18,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
   s.add_runtime_dependency "jekyll-theme-hacker", "~> 0.1.0"
   s.add_runtime_dependency "redcarpet"
+  s.add_runtime_dependency "base64"
+  s.add_runtime_dependency "bigdecimal"
+  s.add_runtime_dependency "kramdown-parser-gfm"
 end

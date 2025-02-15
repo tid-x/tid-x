@@ -4,4 +4,4 @@ layout: default
 
 ## Social event
 
-Por confirmar
+Ubicación por confirmar. Si tienes alguna sugerencia, por favor ponte en contacto con la organización.

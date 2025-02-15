@@ -12,7 +12,7 @@ Aquí puedes encontrar la lista de [charlas propuestas](https://github.com/tid-x
 
 No hay conferencia técnica sin charlas, por tanto necesitamos propuestas de charlas para
 tener un sábado pleno de conocimientos! Puedes enviar tu propuesta de charla [abriendo
-un issue en el repositorio](https://github.com/tid-x/tid-x/issues/new?labels=talk).
+un issue en el repositorio](https://github.com/tid-x/tid-x/issues/new?template=talk-proposal.md&labels=talk).
 
 ### Quiero mostrar mi apoyo/rechazo a una charla propuesta, ¿cómo puedo hacerlo?
 
@@ -28,4 +28,5 @@ Recordad que lo que se vota son las charlas, no las personas. Por favor que nadi
 se sienta herido si ve 👎 en su propuesta.
 
 ### Plazo para presentar propuestas y realizar votaciones
+
 El plazo finaliza el 15 de marzo de 2025.
