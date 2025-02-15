@@ -4,10 +4,11 @@ layout: default
 
 ## Inscripción al evento
 
-Por favor contacta con la organización para hacernos saber que vendrás al evento.
+Utiliza [este enlace](https://docs.google.com/forms/d/e/1FAIpQLSfPlQwUlChpBy-fVw1dXiMHYX7k66s__Sk_szpCFTHR5bNEyg/viewform?usp=sharing) para inscribirte al evento.
 
-No es necesario contar con un listado de asistentes, pero es importante conocer un número
-aproximado para gestión del aforo.
+La organización se reserva el derecho de no permitir la entrada a aquellas personas no
+inscritas previamente.
+
 
 ## Listado público de asistentes
 - [Juan de Bravo](https://www.juandebravo.com)
