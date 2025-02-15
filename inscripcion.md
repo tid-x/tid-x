@@ -11,6 +11,6 @@ inscritas previamente.
 
 
 ## Listado público de asistentes
-- [Juan de Bravo](https://www.juandebravo.com)
-- [Gustavo Garcia Bernardo](https://twitter.com/anarchyco)
-- [Alonso Álvarez](https://x.com/alalga)
+- [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
+- [Gustavo Garcia Bernardo](https://twitter.com/anarchyco) (Madrid)
+- [Alonso Álvarez](https://x.com/alalga) (Madrid)
