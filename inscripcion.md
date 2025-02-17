@@ -14,3 +14,9 @@ inscritas previamente.
 - [Juan de Bravo](https://www.juandebravo.com) (Barcelona)
 - [Gustavo Garcia Bernardo](https://twitter.com/anarchyco) (Madrid)
 - [Alonso Álvarez](https://x.com/alalga) (Madrid)
+- David Artuñedo
+- Roberto Perez
+- Alberto León
+- Fernando de la Iglesia
+- Rafael Bartolome
+- Miguel González Castaños
