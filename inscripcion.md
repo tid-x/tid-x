@@ -20,3 +20,7 @@ inscritas previamente.
 - Fernando de la Iglesia
 - Rafael Bartolome
 - Miguel González Castaños
+- David Lozano
+- Ignacio G.R. Gavilán
+- Ruben Gonzalez Blanco
+- Javier Martínez Elicegui
