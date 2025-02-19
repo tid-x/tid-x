@@ -24,3 +24,6 @@ inscritas previamente.
 - Ignacio G.R. Gavilán
 - Ruben Gonzalez Blanco
 - Javier Martínez Elicegui
+- Pierre Plaza
+- Fernando de la Iglesia
+- Rafael González
