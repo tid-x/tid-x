@@ -27,3 +27,4 @@ inscritas previamente.
 - Pierre Plaza
 - Fernando de la Iglesia
 - Rafael González
+- Shay Cohen
