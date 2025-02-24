@@ -28,3 +28,4 @@ inscritas previamente.
 - Fernando de la Iglesia
 - Rafael González
 - Shay Cohen
+- Marcelino Veiga
