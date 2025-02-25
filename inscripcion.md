@@ -29,3 +29,6 @@ inscritas previamente.
 - Rafael González
 - Shay Cohen
 - Marcelino Veiga
+- José María González Calabozo
+- Javier López Benito
+- Juan Agüí
