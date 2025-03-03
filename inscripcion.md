@@ -32,3 +32,5 @@ inscritas previamente.
 - José María González Calabozo
 - Javier López Benito
 - Juan Agüí
+- Edrai Brosa
+- Javier Carbonell
