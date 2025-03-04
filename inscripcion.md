@@ -34,3 +34,6 @@ inscritas previamente.
 - Juan Agüí
 - Edrai Brosa
 - Javier Carbonell
+- David Lopez Miguel
+- Tomás Montserrat
+- Julio Ramirez
