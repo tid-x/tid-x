@@ -38,3 +38,4 @@ inscritas previamente.
 - Tomás Montserrat
 - Julio Ramirez
 - Jorge Serna
+- Juan García Lonragón
