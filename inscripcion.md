@@ -37,3 +37,4 @@ inscritas previamente.
 - David Lopez Miguel
 - Tomás Montserrat
 - Julio Ramirez
+- Jorge Serna
