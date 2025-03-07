@@ -39,3 +39,5 @@ inscritas previamente.
 - Julio Ramirez
 - Jorge Serna
 - Juan García Lonragón
+- Jacob Cañadas
+- Guillermo
