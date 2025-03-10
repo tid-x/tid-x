@@ -42,4 +42,5 @@ inscritas previamente.
 - Jacob Cañadas
 - Guillermo
 - Fede Alonso
-- Jorge Ruano Puente
+- Jorge Ruano
+- Víctor Ruiz
