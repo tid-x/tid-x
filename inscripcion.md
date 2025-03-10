@@ -41,3 +41,5 @@ inscritas previamente.
 - Juan García Lonragón
 - Jacob Cañadas
 - Guillermo
+- Fede Alonso
+- Jorge Ruano Puente
