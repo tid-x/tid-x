@@ -44,3 +44,4 @@ inscritas previamente.
 - Fede Alonso
 - Jorge Ruano
 - Víctor Ruiz
+- Ricardo Grazziani
