@@ -46,4 +46,5 @@ inscritas previamente.
 - Víctor Ruiz
 - Ricardo Grazziani
 - Javier Mendiara
+- Diego Diaz
 
