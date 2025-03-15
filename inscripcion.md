@@ -47,4 +47,5 @@ inscritas previamente.
 - Ricardo Grazziani
 - Javier Mendiara
 - Diego Diaz
-
+- Jose Luis Urien
+- Antonio Manuel Amaya
