@@ -25,7 +25,6 @@ inscritas previamente.
 - Ruben Gonzalez Blanco
 - Javier Martínez Elicegui
 - Pierre Plaza
-- Fernando de la Iglesia
 - Rafael González
 - Shay Cohen
 - Marcelino Veiga
@@ -49,3 +48,5 @@ inscritas previamente.
 - Diego Diaz
 - Jose Luis Urien
 - Antonio Manuel Amaya
+- Nuria Gómez Rojo
+- A. Alberto de Mercado Cristóbal
