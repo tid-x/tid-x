@@ -27,11 +27,11 @@ inscritas previamente.
 - Pierre Plaza
 - Rafael González
 - Shay Cohen
-- Marcelino Veiga
+- Marcelino Veiga Tuimil
 - José María González Calabozo
 - Javier López Benito
 - Juan Agüí
-- Edrai Brosa
+- Edraí Brosa
 - Javier Carbonell
 - David Lopez Miguel
 - Tomás Montserrat
@@ -50,3 +50,6 @@ inscritas previamente.
 - Antonio Manuel Amaya
 - Nuria Gómez Rojo
 - A. Alberto de Mercado Cristóbal
+- Miguel Schneider
+- Francisco Martinez
+- Arturo Gutiérrez Díaz-Guerra
