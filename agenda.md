@@ -19,6 +19,6 @@ layout: default
 |16:30 - 16:45 | Pausa hidratación |  | 
 |16:45 - 17:15 | Afilando el hacha. Creando tus propias herramientas para el dia a dia | [Roberto Pérez](speakers/rpc) | 
 |17:15 - 17:45 | A personal walkthrough of a heart attack and recommendations | Pierre Plaza | 
-|17:45 - 18:00 | Despedida y hasta el año que viene | Alonso Alonso | 
+|17:45 - 18:00 | Despedida y hasta el año que viene | [Alonso Álvarez](speaker/alonso_alvarez) | 
 
 
