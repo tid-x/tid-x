@@ -6,7 +6,7 @@ layout: default
 </div>
 
 |10:00 - 10:15 | Bienvenida | [Juan de Bravo](juan_de_bravo) | 
-|10:15 - 11:00 | Keynote | [Rubén González Blanco](ruben_gonzalez) | 
+|10:15 - 11:00 | Designing and Building your Internal (Developer) Platform | [Rubén González Blanco](ruben_gonzalez) | 
 |11:00 - 11:30 | Passkeys y DPoP - fortaleciendo la seguridad de acceso a servicios | David Lozano | 
 |11:30 - 12:00 | Cuando una puerta se cierra, se abre una ventana | Mariluz Congosto | 
 |12:00 - 12:30 | Pausa café |  | 
