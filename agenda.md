@@ -2,31 +2,23 @@
 layout: default
 ---
 
-## Agenda
+<div id="agenda">
+</div>
 
-Actualmente está abierto el plazo para presentar propuestas de charlas.
+|10:00 - 10:15 | Bienvenida | [Juan de Bravo](juan_de_bravo) | 
+|10:15 - 11:00 | Keynote | [Rubén González Blanco](ruben_gonzalez) | 
+|11:00 - 11:30 | Passkeys y DPoP - fortaleciendo la seguridad de acceso a servicios | David Lozano | 
+|11:30 - 12:00 | Cuando una puerta se cierra, se abre una ventana | Mariluz Congosto | 
+|12:00 - 12:30 | Pausa café |  | 
+|12:30 - 13:00 | Revolutionizing Finance: How we leveraged Blockchain technology to optimize Financial Systems | Miguel Schneider | 
+|13:00 - 13:30 | Fortaleciendo las bases de la criptografía | Fernando de la Iglesia | 
+|13:30 - 14:00 | Old Man Yells at the Cloud | Javier Provecho | 
+|14:00 - 15:30 | Comida |  | 
+|15:30 - 16:00 | The future of product development is here | [Shay Cohen](shay_cohen) | 
+|16:00 - 16:30 | The boldest challenges in technology ethics and the role of people | Ignacio Gavilán | 
+|16:30 - 16:45 | Pausa hidratación |  | 
+|16:45 - 17:15 | Afilando el hacha. Creando tus propias herramientas para el dia a dia | [Roberto Pérez](rpc) | 
+|17:15 - 17:45 | A personal walkthrough of a heart attack and recommendations | Pierre Plaza | 
+|17:45 - 18:00 | Despedida y hasta el año que viene | Alonso Alonso | 
 
-Aquí puedes encontrar la lista de [charlas propuestas](https://github.com/tid-x/tid-x/issues?q=is%3Aopen+is%3Aissue+label%3Atalk).
 
-### Quiero dar una charla, ¿cómo puedo proponerla?
-
-No hay conferencia técnica sin charlas, por tanto necesitamos propuestas de charlas para
-tener un sábado pleno de conocimientos! Puedes enviar tu propuesta de charla [abriendo
-un issue en el repositorio](https://github.com/tid-x/tid-x/issues/new?template=talk-proposal.md&labels=talk).
-
-### Quiero mostrar mi apoyo/rechazo a una charla propuesta, ¿cómo puedo hacerlo?
-
-Durante una revisión del technological plan de Telefónica I+D en 2016, utilizamos
-[reactions](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
-para dar nuestro apoyo/rechazo a una propuesta de modificación del plan.
-
-Creemos que fue una buena forma de participación, así que utilizaremos la misma
-metodología. Revisa [las charlas propuestas](https://github.com/tid-x/tid-x/issues?q=is%3Aopen+is%3Aissue+label%3Atalk)
-y vota a favor (👍) o en contra (👎) según tus preferencias.
-
-Recordad que lo que se vota son las charlas, no las personas. Por favor que nadie
-se sienta herido si ve 👎 en su propuesta.
-
-### Plazo para presentar propuestas y realizar votaciones
-
-El plazo finaliza el 15 de marzo de 2025.
