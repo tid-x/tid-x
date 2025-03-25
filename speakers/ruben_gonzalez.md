@@ -4,7 +4,7 @@ speaker: Ruben Gonzalez Blanco
 linkedin: https://www.linkedin.com/in/rubengblanco/
 job_title: Head of Platform at BBVA
 twitter: _rubengb
-picture: images/speakers/ruben_gonzalez.jpeg
+picture: /images/speakers/ruben_gonzalez.jpeg
 biography: |
     Head of Platform at BBVA leading the development of nextgen IT platform
 

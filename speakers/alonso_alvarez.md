@@ -4,7 +4,7 @@ speaker: Aloso Álvarez
 linkedin: https://www.linkedin.com/in/alalga/
 job_title: Lead Expert of Enterprise Agility at Netmind
 twitter: alalga
-picture: images/speakers/alonso_alvarez.jpg
+picture: /images/speakers/alonso_alvarez.jpg
 biography: |
   Formador, coach y mentor Agile. Con más de 29 años de experiencia en proyectos de innovación en los sectores de telecomunicaciones, banca y aeroespacial. 
   Durante 23 años en Telefónica I+D en áreas técnicas como Cloud Computing, Video IP, IoT, QA, o Gestión de Contenidos. 

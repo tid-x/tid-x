@@ -4,7 +4,7 @@ speaker: Shay Cohen
 linkedin: https://www.linkedin.com/in/shaycohen/
 job_title: Development Manager at Wix
 twitter: ShaykeC
-picture: images/speakers/shay_cohen.png
+picture: /images/speakers/shay_cohen.png
 biography: |
     R&D executive director & manager with passion for people, technology, and customers.
 

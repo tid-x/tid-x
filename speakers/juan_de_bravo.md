@@ -4,7 +4,7 @@ speaker: Juan de Bravo
 linkedin: https://www.linkedin.com/in/juandebravo/
 job_title: CTO at PlayCom
 twitter: juandebravo
-picture: images/speakers/juandebravo.png
+picture: /images/speakers/juandebravo.png
 biography: |
     CTO at [PlayCom](https://www.playcom.com), building stuff on the crossover
     of WATCH and PLAY experiences.
