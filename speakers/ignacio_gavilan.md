@@ -4,7 +4,7 @@ speaker: Ignacio G.R. Gavilán
 linkedin: https://ignaciogavilan.com/
 job_title: Video Architect at Houseparty
 twitter: anarchyco
-picture: images/speakers/ignacio_gavilan.png
+picture: /images/speakers/ignacio_gavilan.png
 biography: |
     Fundador & CEO de Reingeniería Digital Asesor, profesor, escritor y speaker, especializado en innovación y transformación digital de procesos y modelos de negocio con foco en robotización de procesos.
     Antes, en Telefónica durante 25 años (1992-2018), 12 de ellos en Telefónica Investigación y Desarrollo (1992-2005).
