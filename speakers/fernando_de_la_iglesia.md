@@ -3,7 +3,7 @@ layout: speaker
 speaker: Fernando de la Iglesia
 linkedin: https://www.linkedin.com/in/fernando-de-la-iglesia/
 job_title: VP of Product at Quside
-picture: images/speakers/fernando_de_la_iglesia.jpg
+picture: /images/speakers/fernando_de_la_iglesia.jpg
 biography: |
     Strategic and tactical definition of products at Quside bringing the amazing technology created in our labs to real life to help our customers to enhance their security posture specially against the quantum threats.
 
