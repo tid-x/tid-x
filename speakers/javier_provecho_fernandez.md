@@ -2,17 +2,15 @@
 layout: speaker
 speaker: Javier Provecho Fernández
 linkedin: https://es.linkedin.com/in/javierprovecho
-job_title: R&D at Telefonica
+job_title: Software Engineer at Okteto
 twitter: javierprovecho
-picture: images/speakers/javier_provecho_fernandez.jpeg
+picture: /images/speakers/javier_provecho_fernandez.png
 biography: |
-    Javier Provecho works at Telefónica R&D, at the core of the 4th platform.
+    Software Engineer at Okteto, building a self-service ephemeral environment platform that empowers developers to unlock their innovation instead of setting up environments.
 
-    [Gin-gonic web framework](https://github.com/gin-gonic/gin) maintainer. 
-    
-    [Docker Madrid Meetup](https://www.meetup.com/Docker-Madrid) organizer.
+    Experienced in product-driven system design, expert in Kubernetes and Public Cloud Posture security. Occasionally sporting an aluminum hat – digital skepticism is key.
 
-    Past companies - BQ
+    Passionate about sharing tech findings, history novels, and drones (wannabe FPV pilot).
 
-    Javier is passionate for new technologies and methodologies about cloud infrastructure or modern development.
+    Previously at: BQ (Spanish mobile OEM, building a cost-savvy OTA platform), Telefonica i+D/CDO (contributing to the 4th Platform), and 11Paths/Telefonica Tech (working on tech security B2B/B2C products).
 ---
