@@ -15,7 +15,7 @@ layout: default
 |13:30 - 14:00 | Old Man Yells at the Cloud | [Javier Provecho](speakers/javier_provecho_fernandez) | 
 |14:00 - 15:30 | Comida |  | 
 |15:30 - 16:00 | The future of product development is here | [Shay Cohen](speakers/shay_cohen) | 
-|16:00 - 16:30 | The boldest challenges in technology ethics and the role of people | [Ignacio G.R. Gavilán](speakers/ignacio_gavilan) | 
+|16:00 - 16:30 | Los mayores retos en ética de la tecnología y el papel de las personas | [Ignacio G.R. Gavilán](speakers/ignacio_gavilan) | 
 |16:30 - 16:45 | Pausa hidratación |  | 
 |16:45 - 17:15 | Afilando el hacha. Creando tus propias herramientas para el dia a dia | [Roberto Pérez](speakers/rpc) | 
 |17:15 - 17:45 | A personal walkthrough of a heart attack and recommendations | [Pierre Plaza](speakers/pierre_plaza) | 
