@@ -17,7 +17,7 @@ layout: default
 |15:30 - 16:00 | The future of product development is here | [Shay Cohen](speakers/shay_cohen) | 
 |16:00 - 16:30 | Los mayores retos en ética de la tecnología y el papel de las personas | [Ignacio G.R. Gavilán](speakers/ignacio_gavilan) | 
 |16:30 - 16:45 | Pausa hidratación |  | 
-|16:45 - 17:15 | Afilando el hacha. Creando tus propias herramientas para el dia a dia | [Roberto Pérez](speakers/rpc) | 
+|16:45 - 17:15 | It's 2025, and We’re Still Not Pair Programming (Me Neither, Until Last Month) | [Juan Agüi](speakers/juan_agui.md) | 
 |17:15 - 17:45 | A personal walkthrough of a heart attack and recommendations | [Pierre Plaza](speakers/pierre_plaza) | 
 |17:45 - 18:00 | Despedida y hasta el año que viene | [Alonso Álvarez](speaker/alonso_alvarez) | 
 
