@@ -57,4 +57,3 @@ inscritas previamente.
 - Jorge Sanz Pérez
 - Fernando Rodríguez Sela
 - Sergio Mallo Sánchez
-
