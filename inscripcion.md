@@ -54,3 +54,7 @@ inscritas previamente.
 - Francisco Martinez
 - Arturo Gutiérrez Díaz-Guerra
 - Enrique García Illera
+- Jorge Sanz Pérez
+- Fernando Rodríguez Sela
+- Sergio Mallo Sánchez
+
