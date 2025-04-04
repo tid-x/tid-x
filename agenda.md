@@ -7,7 +7,7 @@ layout: default
 
 |10:00 - 10:15 | Bienvenida | [Juan de Bravo](speakers/juan_de_bravo) | 
 |10:15 - 11:00 | Designing and Building your Internal (Developer) Platform | [Rubén González Blanco](speakers/ruben_gonzalez) | 
-|11:00 - 11:30 | Passkeys y DPoP - fortaleciendo la seguridad de acceso a servicios | David Lozano | 
+|11:00 - 11:30 | Passkeys y DPoP - fortaleciendo la seguridad de acceso a servicios | [David Lozano](speakers/david_lozano) | 
 |11:30 - 12:00 | Cuando una puerta se cierra, se abre una ventana | Mariluz Congosto | 
 |12:00 - 12:30 | Pausa café |  | 
 |12:30 - 13:00 | Revolutionizing Finance: How we leveraged Blockchain technology to optimize Financial Systems | Miguel Schneider | 
