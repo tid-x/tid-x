@@ -19,6 +19,6 @@ layout: default
 |16:30 - 16:45 | Hydration Break |  | 
 |16:45 - 17:15 | It's 2025, and We're Still Not Pair Programming (Me Neither, Until Last Month) | [Juan Agüi](speakers/juan_agui) | 
 |17:15 - 17:45 | A Personal Walkthrough of a Heart Attack and Recommendations | [Pierre Plaza](speakers/pierre_plaza) | 
-|17:45 - 18:00 | Farewell and See You Next Year | [Alonso Álvarez](speaker/alonso_alvarez) | 
+|17:45 - 18:00 | Farewell and See You Next Year | [Alonso Álvarez](speakers/alonso_alvarez) | 
 
 
