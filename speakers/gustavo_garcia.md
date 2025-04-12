@@ -4,7 +4,7 @@ speaker: Gustavo Garcia
 linkedin: https://www.linkedin.com/in/gustavogb/
 job_title: Principal Video Architect at RingCentral
 twitter: anarchyco
-picture: /images/speakers/gustavo_garcia.jpg
+picture: /speakers/images/gustavo_garcia.jpg
 biography: |
     Video Architect at RingCentral with passion for technology but only when it is fun.
 

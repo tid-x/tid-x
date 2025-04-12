@@ -4,7 +4,7 @@ speaker: Javier Provecho Fernández
 linkedin: https://es.linkedin.com/in/javierprovecho
 job_title: Software Engineer at Okteto
 twitter: javierprovecho
-picture: /images/speakers/javier_provecho_fernandez.png
+picture: /speakers/images/javier_provecho_fernandez.png
 biography: |
     Software Engineer at Okteto, building a self-service ephemeral environment platform that empowers developers to unlock their innovation instead of setting up environments.
 

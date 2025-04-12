@@ -4,11 +4,11 @@ speaker: Antonio Gonzalo
 linkedin: https://www.linkedin.com/in/antoniogonzalo/
 job_title: Tech Entrepreneur
 twitter: antoniogonzalo_
-picture: images/speakers/antonio_gonzalo.jpg
+picture: speakers/images/antonio_gonzalo.jpg
 biography: |
-  Emprendedor tecnológico, cofundador del think tank Ethereum Madrid desde 2015 y CEO de No Interface, una startup para crear unos nueva clase de dispositivos de IOT: amables, sencillos y encantadores.
+  Tech entrepreneur, co-founder of the think tank Ethereum Madrid since 2015 and CEO of No Interface, a startup to create a new class of IoT devices: friendly, simple and charming.
 
-  Empezó su andadura profesional en Accenture, para pasar posteriormente a Telefónica Móviles y Telefónica Digital, donde desarrolló su carrera durante 10 años como responsable del desarrollo de negocio global de I+D para Internet of Things y nuevas tecnologías.
+  He started his professional career at Accenture, then moved to Telefónica Móviles and Telefónica Digital, where he developed his career for 10 years as head of global business development for R&D in Internet of Things and new technologies.
 
-  Le encanta la pizza de piña con un vaso de leche. Convencido que la tecnología es arte, y que los grandes avances en la historia ocurren cuando un pequeño grupo de personas, observadoras, reflexivas y comprometidas así lo deciden.
+  He loves pineapple pizza with a glass of milk. Convinced that technology is art, and that great advances in history occur when a small group of observant, thoughtful and committed people decide to make them happen.
 ---

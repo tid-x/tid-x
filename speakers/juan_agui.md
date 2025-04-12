@@ -4,7 +4,7 @@ speaker: Juan Agüí
 linkedin: https://www.linkedin.com/in/juanagui/
 job_title: Founder at Tesla Cool Lab
 twitter: juanagui
-picture: /images/speakers/juan_agui.jpg
+picture: /speakers/images/juan_agui.jpg
 biography: |
     Serial entrepreneur with a knack for tinkering with embedded systems.
 

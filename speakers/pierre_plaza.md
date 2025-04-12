@@ -3,7 +3,7 @@ layout: speaker
 speaker: Pierre Plaza
 linkedin: https://www.linkedin.com/in/pierreplaza/
 job_title: R&D programmes Director at Sigma Cognition
-picture: /images/speakers/pierre_plaza.png
+picture: /speakers/images/pierre_plaza.png
 biography: |
     Pierre Plaza is now R&D programmes Director at Sigma Cognition, a company devoted to AI and created by an EX-TID: Daniel Tapias.
 

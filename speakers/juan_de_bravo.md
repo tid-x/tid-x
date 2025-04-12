@@ -4,7 +4,7 @@ speaker: Juan de Bravo
 linkedin: https://www.linkedin.com/in/juandebravo/
 job_title: Director of Engineering at RingCentral
 twitter: juandebravo
-picture: /images/speakers/juandebravo.png
+picture: /speakers/images/juandebravo.png
 biography: |
     Building backend services mostly related to Real Time Communications. 
 
