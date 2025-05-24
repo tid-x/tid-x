@@ -2,7 +2,22 @@
 layout: default
 ---
 
-<div id="agenda">
+En este reproductor de Youtube puedes encontrar todas las charlas.
+
+<div style="display: flex; justify-content: center;">
+    <iframe
+        width="620"
+        height="340"
+        src="https://www.youtube.com/embed/videoseries?si=LH89Gx6hJkvulGvj&amp;list=PL94ziy7W5Bvv8eKlIiwYlbidTEWtZIv0N"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<div style="margin-top: 40px">
 </div>
 
 |10:00 - 10:15 | Welcome | [Juan de Bravo](speakers/juan_de_bravo) | 
@@ -20,5 +35,4 @@ layout: default
 |16:45 - 17:15 | It's 2025, and We're Still Not Pair Programming (Me Neither, Until Last Month) | [Juan Agüi](speakers/juan_agui) | 
 |17:15 - 17:45 | A Personal Walkthrough of a Heart Attack and Recommendations | [Pierre Plaza](speakers/pierre_plaza) | 
 |17:45 - 18:00 | Farewell and See You Next Year | [Alonso Álvarez](speakers/alonso_alvarez) | 
-
 
